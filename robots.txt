@@ -1,1 +1,1 @@
-Sitemap: http://helgasonlab.com/sitemap.xml
+Sitemap: https://helgasonlab.com/sitemap.xml
