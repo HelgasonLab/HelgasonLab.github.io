@@ -3,7 +3,7 @@
 
 # HelgasonLab's Website
 
-An engaging 1-3 sentence description of your lab.
+Leukaemia research lab at the University of Glasgow
 
 {% include section.html %}
 
