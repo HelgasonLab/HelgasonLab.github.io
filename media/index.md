@@ -1,8 +1,8 @@
 ---
-title: Projects
+title: Media
 nav:
   order: 2
-  tooltip: Software, datasets, and more
+  tooltip: News and media coverage
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
