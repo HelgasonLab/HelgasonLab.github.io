@@ -13,7 +13,7 @@ Our published research:
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Metabolism in stem cell driven leukaemia" style="rich" %}
 
 {% include section.html %}
 
