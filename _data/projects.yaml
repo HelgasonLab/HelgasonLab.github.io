@@ -1,47 +1,56 @@
-- title: Cool Dataset
-  subtitle: a subtitle
+- title: Featured publication
+  subtitle: Cover page item
   group: featured
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://doi.org/10.15252/embr.202256279
+  description: Our paper - Arginine dependency is a therapeutically exploitable vulnerability in chronic myeloid leukaemic stem cells. - in EMBO Reports also featured as the front cover art
+  repo: https://doi.org/10.15252/embr.202256279
   tags:
-    - resource
+    - journal
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
+- title: Social Media
+  subtitle: University of Glasgow Social Media clip
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://www.facebook.com/UofGlasgow/videos/1784264604926580/?hc_ref=ARSOkMiHfeP6lyipeW4rQZ3CIcSvMbWRFYxLhNaXHUfvM9DzbeiRHToGNJUfB1GI7kI
+  description: UofG research may hold the key to eradicating chronic myeloid leukaemia
+  repo: https://www.facebook.com/UofGlasgow/videos/1784264604926580/?hc_ref=ARSOkMiHfeP6lyipeW4rQZ3CIcSvMbWRFYxLhNaXHUfvM9DzbeiRHToGNJUfB1GI7kI
   tags:
-    - resource
+    - social
+    - media
 
-- title: Cool Tutorial
-  subtitle: a subtitle
+- title: News article
+  subtitle: The Times - 19/09/2017
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: https://www.thetimes.co.uk/edition/scotland/leukaemia-cure-breakthrough-with-treatment-for-pneumonia-55qnh2fs2
+  description: Leukaemia cure breakthrough with treatment for pneumonia
+  repo: https://www.thetimes.co.uk/edition/scotland/leukaemia-cure-breakthrough-with-treatment-for-pneumonia-55qnh2fs2
   tags:
-    - resource
-    - publication
+    - news
 
-- title: Cool Web App
-  subtitle: a subtitle
+- title: News article
+  subtitle: The Scotsman - 19/09/2017
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: #
+  description: The prospect of a cure for one of the most common forms of leukaemia has been raised by Scottish scientists/Scottish scientists hail drug as potential cure for leukaemia
+  repo: #
   tags:
-    - software
+    - news
 
-- title: Cool Web Server
-  subtitle: a subtitle
+- title: News article
+  subtitle: Mirror.co.uk - 18/09/2017
   image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  link: http://www.mirror.co.uk/science/antibiotic-drug-hailed-potential-cure-11195597
+  description: An antibiotic used to treat pneumonia has been hailed as a potential new cure for leukaemia. Antibiotic drug hailed as potential cure for leukaemia by killing off cancerous stem cells
+  repo: http://www.mirror.co.uk/science/antibiotic-drug-hailed-potential-cure-11195597
   tags:
-    - software
+    - news
+
+- title: Radio interview
+  subtitle: Central 103.1 FM - 19/09/2017 12:01:02
+  image: images/photo.jpg
+  link: #
+  description: A new study by the University of Glasgow has suggested an antibiotic could be used in future to eradicate leukaemia cells in patients. Includes interview with Dr Vignir Helgason.
+  repo: #
+  tags:
+    - news
+    - media
