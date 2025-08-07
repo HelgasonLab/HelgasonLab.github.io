@@ -3,7 +3,7 @@
 
 # HelgasonLab's Website
 
-Leukaemia research lab at the University of Glasgow
+We're a leukaemia research lab at the University of Glasgow. We focus on Bench to Bedside translational research. Our focus has been on Chronic Myeloid Leukaemia (CML), a tumour type in which Glasgow has particular clinical expertise and excising translational projects.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ Leukaemia research lab at the University of Glasgow
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are interested in related leukaemias and myeloproliferative neoplasms, with the overall aim of targeting appropriate therapy to the stem cell compartment to remove the population in which drug resistance occurs. All on-going projects relate to targeting: Leukaemia Stem Cells, Autophagy, Cancer Metabolism, Leukaemia Niche.
 
 {%
   include button.html
@@ -34,12 +34,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are well aware of the importance of engagement with end users and external bodies. Through fundraising/public engagement events, we provide knowledge to patient groups/charities, which will help raise awareness of the disease. We are active members of a fundraising committee and manage Helgason Lab social media accounts (Facebook, Instagram, Twitter).
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="Browse our news"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -51,7 +51,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="projects"
-  title="Our Projects"
+  title="Media coverage"
   flip=true
   style="bare"
   text=text
@@ -59,7 +59,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are a growing team of experimental as well as computational biologist.
 
 {%
   include button.html
