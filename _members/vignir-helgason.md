@@ -4,8 +4,12 @@ image: images/photo.jpg
 role: principal-investigator
 affiliation: University of Glasgow
 aliases:
-  - V. Helgason
+  - G.V. Helgason
   - GV Helgason
+  - G V Helgason
+  - G Vignir Helgason
+  - Helgason GV
+  - Helgason G.V.
 links:
   home-page: https://www.gla.ac.uk/schools/cancersciences/staff/vignirhelgason/
   orcid: 0000-0003-1616-132X
