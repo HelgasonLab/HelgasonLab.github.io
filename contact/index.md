@@ -23,7 +23,7 @@ We would be happy to connect with anyone who is interested in our research
 %}
 {%
   include button.html
-  type="Wolfson Wohl Cancer Research Centre"
+  type="address"
   tooltip="Our location on Google Maps for easy navigation"
   link="https://maps.app.goo.gl/XBHQctoT9ejEgRvF6"
 %}
