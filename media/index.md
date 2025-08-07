@@ -9,7 +9,7 @@ nav:
 
 Our media coverage and public engagement.
 
-{% include tags.html tags="publication, resource, website" %}
+{% include tags.html tags="journal news, media, social" %}
 
 {% include search-info.html %}
 
