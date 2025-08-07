@@ -1,7 +1,7 @@
 ---
 ---
 
-# HelgasonLab's Website
+# Helgason Laboratory
 
 We're a leukaemia research lab at the University of Glasgow. We focus on Bench to Bedside translational research. Our focus has been on Chronic Myeloid Leukaemia (CML), a tumour type in which Glasgow has particular clinical expertise and excising translational projects.
 
