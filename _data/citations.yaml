@@ -1,191 +1,4395 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.1182/blood.2022018258
+  title: 'Metabolism in stem cell driven leukaemia: parallels between haematopoiesis
+    and immunity'
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Kevin M. Rattigan
+  - Martha M. Zarou
+  - Vignir Helgason
+  publisher: Blood
+  date: '2023-01-12'
+  link: https://doi.org/g9wgfp
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.12.21.521404
+  title: Mitochondrial folate metabolism inhibition drives differentiation through
+    mTORC1 mediated purine sensing
+  authors:
+  - Martha M. Zarou
+  - Kevin M. Rattigan
+  - Daniele Sarnello
+  - Amy Dawson
+  - Angela Ianniciello
+  - Karen Dunn
+  - Mhairi Copland
+  - David Sumpton
+  - Alexei Vazquez
+  - G. Vignir Helgason
   publisher: Cold Spring Harbor Laboratory
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2022-12-21'
+  link: https://doi.org/g9wgfq
+  orcid: 0000-0003-1616-132X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1038/s41420-022-01211-1
+  title: BH3 mimetics in combination with nilotinib or ponatinib represent a promising
+    therapeutic strategy in blast phase chronic myeloid leukemia
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Narissa Parry
+  - Caroline Busch
+  - "Victoria A\xDFmann"
+  - Jennifer Cassels
+  - Alan Hair
+  - G. Vignir Helgason
+  - Helen Wheadon
+  - Mhairi Copland
+  publisher: Cell Death Discovery
+  date: '2022-11-15'
+  link: https://doi.org/g9wgfr
+  orcid: 0000-0003-1616-132X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1080/15548627.2022.2041152
+  title: 'Targeting ULK1 in cancer stem cells: insight from chronic myeloid leukemia'
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Angela Ianniciello
+  - G. Vignir Helgason
+  publisher: Autophagy
+  date: '2022-03-01'
+  link: https://doi.org/g9wgfs
+  orcid: 0000-0003-1616-132X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1038/s41375-021-01416-w
+  title: Mitochondrial metabolism as a potential therapeutic target in myeloid leukaemia
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Lucie de Beauchamp
+  - Ekaterini Himonas
+  - G. Vignir Helgason
+  publisher: Leukemia
+  date: '2021-09-24'
+  link: https://doi.org/gnhsz7
+  orcid: 0000-0003-1616-132X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1038/s41375-021-01189-2
+  title: 'Folate metabolism: a re-emerging therapeutic target in haematological cancers'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Martha M. Zarou
+  - Alexei Vazquez
+  - G. Vignir Helgason
+  publisher: Leukemia
+  date: '2021-03-11'
+  link: https://doi.org/g9wgft
+  orcid: 0000-0003-1616-132X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1038/s41568-019-0230-9
+  title: 'The leukaemia stem cell: similarities, differences and clinical prospects
+    in CML and AML'
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - David Vetrie
+  - G. Vignir Helgason
+  - Mhairi Copland
+  publisher: Nature Reviews Cancer
+  date: '2020-01-06'
+  link: https://doi.org/ghmbv2
+  orcid: 0000-0003-1616-132X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1111/febs.14659
+  title: 'Autophagy and mitochondrial metabolism: insights into their role and therapeutic
+    potential in chronic myeloid leukaemia'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Pablo Baquero
+  - Amy Dawson
+  - Gudmundur Vignir Helgason
+  publisher: The FEBS Journal
+  date: '2018-10-08'
+  link: https://doi.org/gqj3wb
+  orcid: 0000-0003-1616-132X
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1038/s41375-018-0252-4
+  title: Targeting quiescent leukemic stem cells using second generation autophagy
+    inhibitors
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Pablo Baquero
+  - Amy Dawson
+  - Arunima Mukhopadhyay
+  - Elodie M. Kuntz
+  - Rebecca Mitchell
+  - Orianne Olivares
+  - Angela Ianniciello
+  - Mary T. Scott
+  - Karen Dunn
+  - Michael C. Nicastri
+  - Jeffrey D. Winkler
+  - Alison M. Michie
+  - Kevin M. Ryan
+  - Christina Halsey
+  - Eyal Gottlieb
+  - Erin P. Keaney
+  - Leon O. Murphy
+  - Ravi K. Amaravadi
+  - Tessa L. Holyoake
+  - G. Vignir Helgason
+  publisher: Leukemia
+  date: '2018-09-05'
+  link: https://doi.org/gnhs2c
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3389/fcell.2018.00120
+  title: 'The Ins and Outs of Autophagy and Metabolism in Hematopoietic and Leukemic
+    Stem Cells: Food for Thought'
+  authors:
+  - Angela Ianniciello
+  - Kevin M. Rattigan
+  - G. Vignir Helgason
+  publisher: Frontiers in Cell and Developmental Biology
+  date: '2018-09-26'
+  link: https://doi.org/gffv5s
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jnci/djx236
+  title: Targeting BCR-ABL-Independent TKI Resistance in Chronic Myeloid Leukemia
+    by mTOR and Autophagy Inhibition
+  authors:
+  - Rebecca Mitchell
+  - Lisa E M Hopcroft
+  - Pablo Baquero
+  - Elaine K Allan
+  - Kay Hewit
+  - Daniel James
+  - Graham Hamilton
+  - Arunima Mukhopadhyay
+  - "Jim O\u2019Prey"
+  - Alan Hair
+  - Junia V Melo
+  - Edmond Chan
+  - Kevin M Ryan
+  - "V\xE9ronique Maguer-Satta"
+  - Brian J Druker
+  - Richard E Clark
+  - Subir Mitra
+  - Pawel Herzyk
+  - Franck E Nicolini
+  - Paolo Salomoni
+  - Emma Shanks
+  - Bruno Calabretta
+  - Tessa L Holyoake
+  - G Vignir Helgason
+  publisher: 'JNCI: Journal of the National Cancer Institute'
+  date: '2017-11-20'
+  link: https://doi.org/gmzg8j
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2017-05-783845
+  title: "hsa-mir183/EGR1\u2013mediated regulation of E2F1 is required for CML stem/progenitor\
+    \ cell survival"
+  authors:
+  - Francesca Pellicano
+  - Laura Park
+  - Lisa E. M. Hopcroft
+  - Mansi M. Shah
+  - Lorna Jackson
+  - Mary T. Scott
+  - Cassie J. Clarke
+  - Amy Sinclair
+  - Sheela A. Abraham
+  - Alan Hair
+  - G. Vignir Helgason
+  - "Mark Aspinall-O\u2019Dea"
+  - Ravi Bhatia
+  - Gustavo Leone
+  - Kamil R. Kranc
+  - Anthony D. Whetton
+  - Tessa L. Holyoake
+  publisher: Blood
+  date: '2018-04-05'
+  link: https://doi.org/gdbpcg
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/23723556.2017.1403532
+  title: "Auto-Commentary on: \u201CTargeting mitochondrial oxidative phosphorylation\
+    \ eradicates therapy-resistant chronic myeloid leukemia stem cells\u201D"
+  authors:
+  - Lucie de Beauchamp
+  - Pablo Baquero
+  - Elodie M. Kuntz
+  - Eyal Gottlieb
+  - G. Vignir Helgason
+  publisher: Molecular &amp; Cellular Oncology
+  date: '2017-12-18'
+  link: https://doi.org/g9wgfv
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nm.4399
+  title: Targeting mitochondrial oxidative phosphorylation eradicates therapy-resistant
+    chronic myeloid leukemia stem cells
+  authors:
+  - Elodie M Kuntz
+  - Pablo Baquero
+  - Alison M Michie
+  - Karen Dunn
+  - Saverio Tardito
+  - Tessa L Holyoake
+  - G Vignir Helgason
+  - Eyal Gottlieb
+  publisher: Nature Medicine
+  date: '2017-09-18'
+  link: https://doi.org/gbxb9v
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.ccr-16-1930
+  title: "Axl Blockade by BGB324 Inhibits BCR-ABL Tyrosine Kinase Inhibitor\u2013\
+    Sensitive and -Resistant Chronic Myeloid Leukemia"
+  authors:
+  - Isabel Ben-Batalla
+  - Robert Erdmann
+  - "Heather J\xF8rgensen"
+  - Rebecca Mitchell
+  - Thomas Ernst
+  - Gunhild von Amsberg
+  - Philippe Schafhausen
+  - Janna L. Velthaus
+  - Stephen Rankin
+  - Richard E. Clark
+  - Steffen Koschmieder
+  - Alexander Schultze
+  - Subir Mitra
+  - Peter Vandenberghe
+  - "Tim H. Br\xFCmmendorf"
+  - Peter Carmeliet
+  - Andreas Hochhaus
+  - Klaus Pantel
+  - Carsten Bokemeyer
+  - G. Vignir Helgason
+  - Tessa L. Holyoake
+  - Sonja Loges
+  publisher: Clinical Cancer Research
+  date: '2017-04-30'
+  link: https://doi.org/f958ps
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/15548627.2016.1162359
+  title: ATG7 regulates energy metabolism, differentiation and survival of Philadelphia-chromosome-positive
+    cells
+  authors:
+  - Maria Karvela
+  - Pablo Baquero
+  - Elodie M. Kuntz
+  - Arunima Mukhopadhyay
+  - Rebecca Mitchell
+  - Elaine K. Allan
+  - Edmond Chan
+  - Kamil R. Kranc
+  - Bruno Calabretta
+  - Paolo Salomoni
+  - Eyal Gottlieb
+  - Tessa L. Holyoake
+  - G. Vignir Helgason
+  publisher: Autophagy
+  date: '2016-05-11'
+  link: https://doi.org/gnj73m
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1080/15548627.2015.1100356
+  title: Guidelines for the use and interpretation of assays for monitoring autophagy
+    (3rd edition)
+  authors:
+  - Daniel J Klionsky
+  - Kotb Abdelmohsen
+  - Akihisa Abe
+  - Md Joynal Abedin
+  - Hagai Abeliovich
+  - Abraham Acevedo Arozena
+  - Hiroaki Adachi
+  - Christopher M Adams
+  - Peter D Adams
+  - Khosrow Adeli
+  - Peter J Adhihetty
+  - Sharon G Adler
+  - Galila Agam
+  - Rajesh Agarwal
+  - Manish K Aghi
+  - Maria Agnello
+  - Patrizia Agostinis
+  - Patricia V Aguilar
+  - Julio Aguirre-Ghiso
+  - Edoardo M Airoldi
+  - Slimane Ait-Si-Ali
+  - Takahiko Akematsu
+  - Emmanuel T Akporiaye
+  - Mohamed Al-Rubeai
+  - Guillermo M Albaiceta
+  - Chris Albanese
+  - Diego Albani
+  - Matthew L Albert
+  - Jesus Aldudo
+  - "Hana Alg\xFCl"
+  - Mehrdad Alirezaei
+  - Iraide Alloza
+  - Alexandru Almasan
+  - Maylin Almonte-Beceril
+  - Emad S Alnemri
+  - Covadonga Alonso
+  - Nihal Altan-Bonnet
+  - Dario C Altieri
+  - Silvia Alvarez
+  - Lydia Alvarez-Erviti
+  - Sandro Alves
+  - Giuseppina Amadoro
+  - Atsuo Amano
+  - Consuelo Amantini
+  - Santiago Ambrosio
+  - Ivano Amelio
+  - Amal O Amer
+  - Mohamed Amessou
+  - Angelika Amon
+  - Zhenyi An
+  - Frank A Anania
+  - Stig U Andersen
+  - Usha P Andley
+  - Catherine K Andreadi
+  - Nathalie Andrieu-Abadie
+  - Alberto Anel
+  - David K Ann
+  - Shailendra Anoopkumar-Dukie
+  - Manuela Antonioli
+  - Hiroshi Aoki
+  - Nadezda Apostolova
+  - Saveria Aquila
+  - Katia Aquilano
+  - Koichi Araki
+  - Eli Arama
+  - Agustin Aranda
+  - Jun Araya
+  - Alexandre Arcaro
+  - Esperanza Arias
+  - Hirokazu Arimoto
+  - Aileen R Ariosa
+  - Jane L Armstrong
+  - Thierry Arnould
+  - Ivica Arsov
+  - Katsuhiko Asanuma
+  - Valerie Askanas
+  - Eric Asselin
+  - Ryuichiro Atarashi
+  - Sally S Atherton
+  - Julie D Atkin
+  - Laura D Attardi
+  - Patrick Auberger
+  - Georg Auburger
+  - Laure Aurelian
+  - Riccardo Autelli
+  - Laura Avagliano
+  - Maria Laura Avantaggiati
+  - Limor Avrahami
+  - Suresh Awale
+  - Neelam Azad
+  - Tiziana Bachetti
+  - Jonathan M Backer
+  - Dong-Hun Bae
+  - Jae-sung Bae
+  - Ok-Nam Bae
+  - Soo Han Bae
+  - Eric H Baehrecke
+  - Seung-Hoon Baek
+  - Stephen Baghdiguian
+  - Agnieszka Bagniewska-Zadworna
+  - Hua Bai
+  - Jie Bai
+  - Xue-Yuan Bai
+  - Yannick Bailly
+  - Kithiganahalli Narayanaswamy Balaji
+  - Walter Balduini
+  - Andrea Ballabio
+  - Rena Balzan
+  - Rajkumar Banerjee
+  - "G\xE1bor B\xE1nhegyi"
+  - Haijun Bao
+  - Benoit Barbeau
+  - Maria D Barrachina
+  - Esther Barreiro
+  - Bonnie Bartel
+  - "Alberto Bartolom\xE9"
+  - Diane C Bassham
+  - Maria Teresa Bassi
+  - Robert C Bast
+  - Alakananda Basu
+  - Maria Teresa Batista
+  - Henri Batoko
+  - Maurizio Battino
+  - Kyle Bauckman
+  - Bradley L Baumgarner
+  - K Ulrich Bayer
+  - Rupert Beale
+  - "Jean-Fran\xE7ois Beaulieu"
+  - George R. Beck
+  - Christoph Becker
+  - J David Beckham
+  - "Pierre-Andr\xE9 B\xE9dard"
+  - Patrick J Bednarski
+  - Thomas J Begley
+  - Christian Behl
+  - Christian Behrends
+  - Georg MN Behrens
+  - Kevin E Behrns
+  - Eloy Bejarano
+  - Amine Belaid
+  - Francesca Belleudi
+  - "Giovanni B\xE9nard"
+  - Guy Berchem
+  - Daniele Bergamaschi
+  - Matteo Bergami
+  - Ben Berkhout
+  - Laura Berliocchi
+  - "Am\xE9lie Bernard"
+  - Monique Bernard
+  - Francesca Bernassola
+  - Anne Bertolotti
+  - Amanda S Bess
+  - "S\xE9bastien Besteiro"
+  - Saverio Bettuzzi
+  - Savita Bhalla
+  - Shalmoli Bhattacharyya
+  - Sujit K Bhutia
+  - Caroline Biagosch
+  - Michele Wolfe Bianchi
+  - Martine Biard-Piechaczyk
+  - Viktor Billes
+  - Claudia Bincoletto
+  - Baris Bingol
+  - Sara W Bird
+  - Marc Bitoun
+  - Ivana Bjedov
+  - Craig Blackstone
+  - Lionel Blanc
+  - Guillermo A Blanco
+  - Heidi Kiil Blomhoff
+  - Emilio Boada-Romero
+  - "Stefan B\xF6ckler"
+  - Marianne Boes
+  - Kathleen Boesze-Battaglia
+  - Lawrence H Boise
+  - Alessandra Bolino
+  - Andrea Boman
+  - Paolo Bonaldo
+  - Matteo Bordi
+  - "J\xFCrgen Bosch"
+  - Luis M Botana
+  - Joelle Botti
+  - German Bou
+  - "Marina Bouch\xE9"
+  - Marion Bouchecareilh
+  - "Marie-Jos\xE9e Boucher"
+  - Michael E Boulton
+  - Sebastien G Bouret
+  - Patricia Boya
+  - "Micha\xEBl Boyer-Guittaut"
+  - Peter V Bozhkov
+  - Nathan Brady
+  - Vania MM Braga
+  - Claudio Brancolini
+  - Gerhard H Braus
+  - "Jos\xE9 M Bravo-San Pedro"
+  - Lisa A Brennan
+  - Emery H Bresnick
+  - Patrick Brest
+  - Dave Bridges
+  - "Marie-Agn\xE8s Bringer"
+  - Marisa Brini
+  - Glauber C Brito
+  - Bertha Brodin
+  - Paul S Brookes
+  - Eric J Brown
+  - Karen Brown
+  - Hal E Broxmeyer
+  - Alain Bruhat
+  - Patricia Chakur Brum
+  - John H Brumell
+  - Nicola Brunetti-Pierri
+  - Robert J Bryson-Richardson
+  - Shilpa Buch
+  - Alastair M Buchan
+  - Hikmet Budak
+  - Dmitry V Bulavin
+  - Scott J Bultman
+  - Geert Bultynck
+  - Vladimir Bumbasirevic
+  - Yan Burelle
+  - Robert E Burke
+  - Margit Burmeister
+  - "Peter B\xFCtikofer"
+  - Laura Caberlotto
+  - Ken Cadwell
+  - Monika Cahova
+  - Dongsheng Cai
+  - Jingjing Cai
+  - Qian Cai
+  - Sara Calatayud
+  - Nadine Camougrand
+  - Michelangelo Campanella
+  - Grant R Campbell
+  - Matthew Campbell
+  - Silvia Campello
+  - Robin Candau
+  - Isabella Caniggia
+  - Lavinia Cantoni
+  - Lizhi Cao
+  - Allan B Caplan
+  - Michele Caraglia
+  - Claudio Cardinali
+  - Sandra Morais Cardoso
+  - Jennifer S Carew
+  - Laura A Carleton
+  - Cathleen R Carlin
+  - Silvia Carloni
+  - Sven R Carlsson
+  - Didac Carmona-Gutierrez
+  - Leticia AM Carneiro
+  - Oliana Carnevali
+  - Serena Carra
+  - Alice Carrier
+  - Bernadette Carroll
+  - Caty Casas
+  - Josefina Casas
+  - Giuliana Cassinelli
+  - Perrine Castets
+  - Susana Castro-Obregon
+  - Gabriella Cavallini
+  - Isabella Ceccherini
+  - Francesco Cecconi
+  - Arthur I Cederbaum
+  - "Valent\xEDn Ce\xF1a"
+  - Simone Cenci
+  - Claudia Cerella
+  - Davide Cervia
+  - Silvia Cetrullo
+  - Hassan Chaachouay
+  - Han-Jung Chae
+  - Andrei S Chagin
+  - Chee-Yin Chai
+  - Gopal Chakrabarti
+  - Georgios Chamilos
+  - Edmond YW Chan
+  - Matthew TV Chan
+  - Dhyan Chandra
+  - Pallavi Chandra
+  - Chih-Peng Chang
+  - Raymond Chuen-Chung Chang
+  - Ta Yuan Chang
+  - John C Chatham
+  - Saurabh Chatterjee
+  - Santosh Chauhan
+  - Yongsheng Che
+  - Michael E Cheetham
+  - Rajkumar Cheluvappa
+  - Chun-Jung Chen
+  - Gang Chen
+  - Guang-Chao Chen
+  - Guoqiang Chen
+  - Hongzhuan Chen
+  - Jeff W Chen
+  - Jian-Kang Chen
+  - Min Chen
+  - Mingzhou Chen
+  - Peiwen Chen
+  - Qi Chen
+  - Quan Chen
+  - Shang-Der Chen
+  - Si Chen
+  - Steve S-L Chen
+  - Wei Chen
+  - Wei-Jung Chen
+  - Wen Qiang Chen
+  - Wenli Chen
+  - Xiangmei Chen
+  - Yau-Hung Chen
+  - Ye-Guang Chen
+  - Yin Chen
+  - Yingyu Chen
+  - Yongshun Chen
+  - Yu-Jen Chen
+  - Yue-Qin Chen
+  - Yujie Chen
+  - Zhen Chen
+  - Zhong Chen
+  - Alan Cheng
+  - Christopher HK Cheng
+  - Hua Cheng
+  - Heesun Cheong
+  - Sara Cherry
+  - Jason Chesney
+  - Chun Hei Antonio Cheung
+  - Eric Chevet
+  - Hsiang Cheng Chi
+  - Sung-Gil Chi
+  - Fulvio Chiacchiera
+  - Hui-Ling Chiang
+  - Roberto Chiarelli
+  - Mario Chiariello
+  - Marcello Chieppa
+  - Lih-Shen Chin
+  - Mario Chiong
+  - Gigi NC Chiu
+  - Dong-Hyung Cho
+  - Ssang-Goo Cho
+  - William C Cho
+  - Yong-Yeon Cho
+  - Young-Seok Cho
+  - Augustine MK Choi
+  - Eui-Ju Choi
+  - Eun-Kyoung Choi
+  - Jayoung Choi
+  - Mary E Choi
+  - Seung-Il Choi
+  - Tsui-Fen Chou
+  - Salem Chouaib
+  - Divaker Choubey
+  - Vinay Choubey
+  - Kuan-Chih Chow
+  - Kamal Chowdhury
+  - Charleen T Chu
+  - Tsung-Hsien Chuang
+  - Taehoon Chun
+  - Hyewon Chung
+  - Taijoon Chung
+  - Yuen-Li Chung
+  - Yong-Joon Chwae
+  - Valentina Cianfanelli
+  - Roberto Ciarcia
+  - Iwona A Ciechomska
+  - Maria Rosa Ciriolo
+  - Mara Cirone
+  - Sofie Claerhout
+  - Michael J Clague
+  - "Joan Cl\xE0ria"
+  - Peter GH Clarke
+  - Robert Clarke
+  - Emilio Clementi
+  - "C\xE9dric Cleyrat"
+  - Miriam Cnop
+  - Eliana M Coccia
+  - Tiziana Cocco
+  - Patrice Codogno
+  - "J\xF6rn Coers"
+  - Ezra EW Cohen
+  - David Colecchia
+  - Luisa Coletto
+  - "N\xFAria S Coll"
+  - Emma Colucci-Guyon
+  - Sergio Comincini
+  - Maria Condello
+  - Katherine L Cook
+  - Graham H Coombs
+  - Cynthia D Cooper
+  - J Mark Cooper
+  - Isabelle Coppens
+  - Maria Tiziana Corasaniti
+  - Marco Corazzari
+  - Ramon Corbalan
+  - Elisabeth Corcelle-Termeau
+  - Mario D Cordero
+  - Cristina Corral-Ramos
+  - Olga Corti
+  - Andrea Cossarizza
+  - Paola Costelli
+  - Safia Costes
+  - Susan L Cotman
+  - Ana Coto-Montes
+  - Sandra Cottet
+  - Eduardo Couve
+  - Lori R Covey
+  - L Ashley Cowart
+  - Jeffery S Cox
+  - Fraser P Coxon
+  - Carolyn B Coyne
+  - Mark S Cragg
+  - Rolf J Craven
+  - Tiziana Crepaldi
+  - Jose L Crespo
+  - Alfredo Criollo
+  - Valeria Crippa
+  - Maria Teresa Cruz
+  - Ana Maria Cuervo
+  - Jose M Cuezva
+  - Taixing Cui
+  - Pedro R Cutillas
+  - Mark J Czaja
+  - Maria F Czyzyk-Krzeska
+  - Ruben K Dagda
+  - Uta Dahmen
+  - Chunsun Dai
+  - Wenjie Dai
+  - Yun Dai
+  - Kevin N Dalby
+  - Luisa Dalla Valle
+  - Guillaume Dalmasso
+  - Marcello D'Amelio
+  - Markus Damme
+  - Arlette Darfeuille-Michaud
+  - Catherine Dargemont
+  - Victor M Darley-Usmar
+  - Srinivasan Dasarathy
+  - Biplab Dasgupta
+  - Srikanta Dash
+  - Crispin R Dass
+  - Hazel Marie Davey
+  - Lester M Davids
+  - "David D\xE1vila"
+  - Roger J Davis
+  - Ted M Dawson
+  - Valina L Dawson
+  - Paula Daza
+  - Jackie de Belleroche
+  - Paul de Figueiredo
+  - Regina Celia Bressan Queiroz de Figueiredo
+  - "Jos\xE9 de la Fuente"
+  - Luisa De Martino
+  - Antonella De Matteis
+  - Guido RY De Meyer
+  - Angelo De Milito
+  - Mauro De Santi
+  - Wanderley de Souza
+  - Vincenzo De Tata
+  - Daniela De Zio
+  - Jayanta Debnath
+  - Reinhard Dechant
+  - Jean-Paul Decuypere
+  - Shane Deegan
+  - Benjamin Dehay
+  - Barbara Del Bello
+  - Dominic P Del Re
+  - "R\xE9gis Delage-Mourroux"
+  - Lea MD Delbridge
+  - Louise Deldicque
+  - Elizabeth Delorme-Axford
+  - Yizhen Deng
+  - Joern Dengjel
+  - Melanie Denizot
+  - Paul Dent
+  - Channing J Der
+  - Vojo Deretic
+  - "Beno\xEEt Derrien"
+  - Eric Deutsch
+  - Timothy P Devarenne
+  - Rodney J Devenish
+  - Sabrina Di Bartolomeo
+  - Nicola Di Daniele
+  - Fabio Di Domenico
+  - Alessia Di Nardo
+  - Simone Di Paola
+  - Antonio Di Pietro
+  - Livia Di Renzo
+  - Aaron DiAntonio
+  - "Guillermo D\xEDaz-Araya"
+  - "Ines D\xEDaz-Laviada"
+  - Maria T Diaz-Meco
+  - Javier Diaz-Nido
+  - Chad A Dickey
+  - Robert C Dickson
+  - Marc Diederich
+  - Paul Digard
+  - Ivan Dikic
+  - Savithrama P Dinesh-Kumar
+  - Chan Ding
+  - Wen-Xing Ding
+  - Zufeng Ding
+  - Luciana Dini
+  - "J\xF6rg HW Distler"
+  - Abhinav Diwan
+  - Mojgan Djavaheri-Mergny
+  - Kostyantyn Dmytruk
+  - Renwick CJ Dobson
+  - Volker Doetsch
+  - Karol Dokladny
+  - Svetlana Dokudovskaya
+  - Massimo Donadelli
+  - X Charlie Dong
+  - Xiaonan Dong
+  - Zheng Dong
+  - Terrence M Donohue
+  - Kelly S Doran
+  - Gabriella D'Orazi
+  - Gerald W Dorn
+  - Victor Dosenko
+  - Sami Dridi
+  - Liat Drucker
+  - Jie Du
+  - Li-Lin Du
+  - Lihuan Du
+  - "Andr\xE9 du Toit"
+  - Priyamvada Dua
+  - Lei Duan
+  - Pu Duann
+  - Vikash Kumar Dubey
+  - Michael R Duchen
+  - Michel A Duchosal
+  - Helene Duez
+  - Isabelle Dugail
+  - "Ver\xF3nica I Dumit"
+  - Mara C Duncan
+  - Elaine A Dunlop
+  - William A Dunn
+  - Nicolas Dupont
+  - Luc Dupuis
+  - "Ra\xFAl V Dur\xE1n"
+  - Thomas M Durcan
+  - "St\xE9phane Duvezin-Caubet"
+  - Umamaheswar Duvvuri
+  - Vinay Eapen
+  - Darius Ebrahimi-Fakhari
+  - Arnaud Echard
+  - Leopold Eckhart
+  - Charles L Edelstein
+  - Aimee L Edinger
+  - Ludwig Eichinger
+  - Tobias Eisenberg
+  - Avital Eisenberg-Lerner
+  - N Tony Eissa
+  - Wafik S El-Deiry
+  - Victoria El-Khoury
+  - Zvulun Elazar
+  - Hagit Eldar-Finkelman
+  - Chris JH Elliott
+  - Enzo Emanuele
+  - Urban Emmenegger
+  - Nikolai Engedal
+  - Anna-Mart Engelbrecht
+  - Simone Engelender
+  - Jorrit M Enserink
+  - Ralf Erdmann
+  - Jekaterina Erenpreisa
+  - Rajaraman Eri
+  - Jason L Eriksen
+  - Andreja Erman
+  - Ricardo Escalante
+  - Eeva-Liisa Eskelinen
+  - Lucile Espert
+  - "Lorena Esteban-Mart\xEDnez"
+  - Thomas J Evans
+  - Mario Fabri
+  - Gemma Fabrias
+  - Cinzia Fabrizi
+  - Antonio Facchiano
+  - "Nils J F\xE6rgeman"
+  - Alberto Faggioni
+  - W Douglas Fairlie
+  - Chunhai Fan
+  - Daping Fan
+  - Jie Fan
+  - Shengyun Fang
+  - Manolis Fanto
+  - Alessandro Fanzani
+  - Thomas Farkas
+  - Mathias Faure
+  - Francois B Favier
+  - Howard Fearnhead
+  - Massimo Federici
+  - Erkang Fei
+  - Tania C Felizardo
+  - Hua Feng
+  - Yibin Feng
+  - Yuchen Feng
+  - Thomas A Ferguson
+  - "\xC1lvaro F Fern\xE1ndez"
+  - Maite G Fernandez-Barrena
+  - Jose C Fernandez-Checa
+  - "Arsenio Fern\xE1ndez-L\xF3pez"
+  - Martin E Fernandez-Zapico
+  - Olivier Feron
+  - Elisabetta Ferraro
+  - "Carmen Ver\xEDssima Ferreira-Halder"
+  - Laszlo Fesus
+  - Ralph Feuer
+  - Fabienne C Fiesel
+  - Eduardo C Filippi-Chiela
+  - Giuseppe Filomeni
+  - Gian Maria Fimia
+  - John H Fingert
+  - Steven Finkbeiner
+  - Toren Finkel
+  - Filomena Fiorito
+  - Paul B Fisher
+  - Marc Flajolet
+  - Flavio Flamigni
+  - Oliver Florey
+  - Salvatore Florio
+  - R Andres Floto
+  - Marco Folini
+  - Carlo Follo
+  - Edward A Fon
+  - Francesco Fornai
+  - Franco Fortunato
+  - Alessandro Fraldi
+  - Rodrigo Franco
+  - Arnaud Francois
+  - "Aur\xE9lie Fran\xE7ois"
+  - Lisa B Frankel
+  - Iain DC Fraser
+  - Norbert Frey
+  - Damien G Freyssenet
+  - Christian Frezza
+  - Scott L Friedman
+  - Daniel E Frigo
+  - Dongxu Fu
+  - "Jos\xE9 M Fuentes"
+  - Juan Fueyo
+  - Yoshio Fujitani
+  - Yuuki Fujiwara
+  - Mikihiro Fujiya
+  - Mitsunori Fukuda
+  - Simone Fulda
+  - Carmela Fusco
+  - Bozena Gabryel
+  - Matthias Gaestel
+  - Philippe Gailly
+  - Malgorzata Gajewska
+  - Sehamuddin Galadari
+  - Gad Galili
+  - Inmaculada Galindo
+  - Maria F Galindo
+  - Giovanna Galliciotti
+  - Lorenzo Galluzzi
+  - Luca Galluzzi
+  - Vincent Galy
+  - Noor Gammoh
+  - Sam Gandy
+  - Anand K Ganesan
+  - Swamynathan Ganesan
+  - Ian G Ganley
+  - "Monique Gannag\xE9"
+  - Fen-Biao Gao
+  - Feng Gao
+  - Jian-Xin Gao
+  - "Lorena Garc\xEDa Nannig"
+  - "Eleonora Garc\xEDa V\xE9scovi"
+  - "Marina Garcia-Mac\xEDa"
+  - Carmen Garcia-Ruiz
+  - Abhishek D Garg
+  - Pramod Kumar Garg
+  - Ricardo Gargini
+  - Nils Christian Gassen
+  - "Dami\xE1n Gatica"
+  - Evelina Gatti
+  - Julie Gavard
+  - Evripidis Gavathiotis
+  - Liang Ge
+  - Pengfei Ge
+  - Shengfang Ge
+  - Po-Wu Gean
+  - Vania Gelmetti
+  - Armando A Genazzani
+  - Jiefei Geng
+  - Pascal Genschik
+  - Lisa Gerner
+  - Jason E Gestwicki
+  - David A Gewirtz
+  - Saeid Ghavami
+  - Eric Ghigo
+  - Debabrata Ghosh
+  - Anna Maria Giammarioli
+  - Francesca Giampieri
+  - Claudia Giampietri
+  - Alexandra Giatromanolaki
+  - Derrick J Gibbings
+  - Lara Gibellini
+  - Spencer B Gibson
+  - Vanessa Ginet
+  - Antonio Giordano
+  - Flaviano Giorgini
+  - Elisa Giovannetti
+  - Stephen E Girardin
+  - Suzana Gispert
+  - Sandy Giuliano
+  - Candece L Gladson
+  - Alvaro Glavic
+  - Martin Gleave
+  - Nelly Godefroy
+  - Robert M Gogal
+  - Kuppan Gokulan
+  - Gustavo H Goldman
+  - Delia Goletti
+  - Michael S Goligorsky
+  - Aldrin V Gomes
+  - Ligia C Gomes
+  - Hernando Gomez
+  - Candelaria Gomez-Manzano
+  - "Rub\xE9n G\xF3mez-S\xE1nchez"
+  - "Dawit AP Gon\xE7alves"
+  - Ebru Goncu
+  - Qingqiu Gong
+  - "C\xE9line Gongora"
+  - Carlos B Gonzalez
+  - Pedro Gonzalez-Alegre
+  - Pilar Gonzalez-Cabo
+  - "Rosa Ana Gonz\xE1lez-Polo"
+  - Ing Swie Goping
+  - Carlos Gorbea
+  - Nikolai V Gorbunov
+  - Daphne R Goring
+  - Adrienne M Gorman
+  - Sharon M Gorski
+  - Sandro Goruppi
+  - Shino Goto-Yamada
+  - Cecilia Gotor
+  - Roberta A Gottlieb
+  - Illana Gozes
+  - Devrim Gozuacik
+  - Yacine Graba
+  - Martin Graef
+  - Giovanna E Granato
+  - Gary Dean Grant
+  - Steven Grant
+  - Giovanni Luca Gravina
+  - Douglas R Green
+  - Alexander Greenhough
+  - Michael T Greenwood
+  - Benedetto Grimaldi
+  - "Fr\xE9d\xE9ric Gros"
+  - Charles Grose
+  - Jean-Francois Groulx
+  - Florian Gruber
+  - Paolo Grumati
+  - Tilman Grune
+  - Jun-Lin Guan
+  - Kun-Liang Guan
+  - Barbara Guerra
+  - Carlos Guillen
+  - Kailash Gulshan
+  - Jan Gunst
+  - Chuanyong Guo
+  - Lei Guo
+  - Ming Guo
+  - Wenjie Guo
+  - Xu-Guang Guo
+  - Andrea A Gust
+  - "\xC5sa B Gustafsson"
+  - Elaine Gutierrez
+  - Maximiliano G Gutierrez
+  - Ho-Shin Gwak
+  - Albert Haas
+  - James E Haber
+  - Shinji Hadano
+  - Monica Hagedorn
+  - David R Hahn
+  - Andrew J Halayko
+  - Anne Hamacher-Brady
+  - Kozo Hamada
+  - Ahmed Hamai
+  - Andrea Hamann
+  - Maho Hamasaki
+  - Isabelle Hamer
+  - Qutayba Hamid
+  - Ester M Hammond
+  - Feng Han
+  - Weidong Han
+  - James T Handa
+  - John A Hanover
+  - Malene Hansen
+  - Masaru Harada
+  - Ljubica Harhaji-Trajkovic
+  - J Wade Harper
+  - Abdel Halim Harrath
+  - Adrian L Harris
+  - James Harris
+  - Udo Hasler
+  - Peter Hasselblatt
+  - Kazuhisa Hasui
+  - Robert G Hawley
+  - Teresa S Hawley
+  - Congcong He
+  - Cynthia Y He
+  - Fengtian He
+  - Gu He
+  - Rong-Rong He
+  - Xian-Hui He
+  - You-Wen He
+  - Yu-Ying He
+  - Joan K Heath
+  - "Marie-Jos\xE9e H\xE9bert"
+  - Robert A Heinzen
+  - Gudmundur Vignir Helgason
+  - Michael Hensel
+  - Elizabeth P Henske
+  - Chengtao Her
+  - Paul K Herman
+  - "Agust\xEDn Hern\xE1ndez"
+  - Carlos Hernandez
+  - "Sonia Hern\xE1ndez-Tiedra"
+  - Claudio Hetz
+  - P Robin Hiesinger
+  - Katsumi Higaki
+  - Sabine Hilfiker
+  - Bradford G Hill
+  - Joseph A Hill
+  - William D Hill
+  - Keisuke Hino
+  - Daniel Hofius
+  - Paul Hofman
+  - "G\xFCnter U H\xF6glinger"
+  - "J\xF6rg H\xF6hfeld"
+  - Marina K Holz
+  - Yonggeun Hong
+  - David A Hood
+  - Jeroen JM Hoozemans
+  - Thorsten Hoppe
+  - Chin Hsu
+  - Chin-Yuan Hsu
+  - Li-Chung Hsu
+  - Dong Hu
+  - Guochang Hu
+  - Hong-Ming Hu
+  - Hongbo Hu
+  - Ming Chang Hu
+  - Yu-Chen Hu
+  - Zhuo-Wei Hu
+  - Fang Hua
+  - Ya Hua
+  - Canhua Huang
+  - Huey-Lan Huang
+  - Kuo-How Huang
+  - Kuo-Yang Huang
+  - Shile Huang
+  - Shiqian Huang
+  - Wei-Pang Huang
+  - Yi-Ran Huang
+  - Yong Huang
+  - Yunfei Huang
+  - Tobias B Huber
+  - Patricia Huebbe
+  - Won-Ki Huh
+  - Juha J Hulmi
+  - Gang Min Hur
+  - James H Hurley
+  - Zvenyslava Husak
+  - Sabah NA Hussain
+  - Salik Hussain
+  - Jung Jin Hwang
+  - Seungmin Hwang
+  - Thomas IS Hwang
+  - Atsuhiro Ichihara
+  - Yuzuru Imai
+  - Carol Imbriano
+  - Megumi Inomata
+  - Takeshi Into
+  - Valentina Iovane
+  - Juan L Iovanna
+  - Renato V Iozzo
+  - Nancy Y Ip
+  - Javier E Irazoqui
+  - Pablo Iribarren
+  - Yoshitaka Isaka
+  - Aleksandra J Isakovic
+  - Harry Ischiropoulos
+  - Jeffrey S Isenberg
+  - Mohammad Ishaq
+  - Hiroyuki Ishida
+  - Isao Ishii
+  - Jane E Ishmael
+  - Ciro Isidoro
+  - Ken-ichi Isobe
+  - Erika Isono
+  - Shohreh Issazadeh-Navikas
+  - Koji Itahana
+  - Eisuke Itakura
+  - Andrei I Ivanov
+  - Anand Krishnan V Iyer
+  - "Jos\xE9 M Izquierdo"
+  - Yotaro Izumi
+  - Valentina Izzo
+  - "Marja J\xE4\xE4ttel\xE4"
+  - Nadia Jaber
+  - Daniel John Jackson
+  - William T Jackson
+  - Tony George Jacob
+  - Thomas S Jacques
+  - Chinnaswamy Jagannath
+  - Ashish Jain
+  - Nihar Ranjan Jana
+  - Byoung Kuk Jang
+  - Alkesh Jani
+  - Bassam Janji
+  - Paulo Roberto Jannig
+  - Patric J Jansson
+  - Steve Jean
+  - Marina Jendrach
+  - Ju-Hong Jeon
+  - Niels Jessen
+  - Eui-Bae Jeung
+  - Kailiang Jia
+  - Lijun Jia
+  - Hong Jiang
+  - Hongchi Jiang
+  - Liwen Jiang
+  - Teng Jiang
+  - Xiaoyan Jiang
+  - Xuejun Jiang
+  - Xuejun Jiang
+  - Ying Jiang
+  - Yongjun Jiang
+  - "Alberto Jim\xE9nez"
+  - Cheng Jin
+  - Hongchuan Jin
+  - Lei Jin
+  - Meiyan Jin
+  - Shengkan Jin
+  - Umesh Kumar Jinwal
+  - Eun-Kyeong Jo
+  - Terje Johansen
+  - Daniel E Johnson
+  - Gail VW Johnson
+  - James D Johnson
+  - Eric Jonasch
+  - Chris Jones
+  - Leo AB Joosten
+  - Joaquin Jordan
+  - Anna-Maria Joseph
+  - Bertrand Joseph
+  - Annie M Joubert
+  - Dianwen Ju
+  - Jingfang Ju
+  - Hsueh-Fen Juan
+  - Katrin Juenemann
+  - "G\xE1bor Juh\xE1sz"
+  - Hye Seung Jung
+  - Jae U Jung
+  - Yong-Keun Jung
+  - Heinz Jungbluth
+  - Matthew J Justice
+  - Barry Jutten
+  - Nadeem O Kaakoush
+  - Kai Kaarniranta
+  - Allen Kaasik
+  - Tomohiro Kabuta
+  - Bertrand Kaeffer
+  - "Katarina K\xE5gedal"
+  - Alon Kahana
+  - Shingo Kajimura
+  - Or Kakhlon
+  - Manjula Kalia
+  - Dhan V Kalvakolanu
+  - Yoshiaki Kamada
+  - Konstantinos Kambas
+  - Vitaliy O Kaminskyy
+  - Harm H Kampinga
+  - Mustapha Kandouz
+  - Chanhee Kang
+  - Rui Kang
+  - Tae-Cheon Kang
+  - Tomotake Kanki
+  - Thirumala-Devi Kanneganti
+  - Haruo Kanno
+  - Anumantha G Kanthasamy
+  - Marc Kantorow
+  - Maria Kaparakis-Liaskos
+  - Orsolya Kapuy
+  - Vassiliki Karantza
+  - Md Razaul Karim
+  - Parimal Karmakar
+  - Arthur Kaser
+  - Susmita Kaushik
+  - Thomas Kawula
+  - A Murat Kaynar
+  - Po-Yuan Ke
+  - Zun-Ji Ke
+  - John H Kehrl
+  - Kate E Keller
+  - Jongsook Kim Kemper
+  - Anne K Kenworthy
+  - Oliver Kepp
+  - Andreas Kern
+  - Santosh Kesari
+  - David Kessel
+  - Robin Ketteler
+  - Isis do Carmo Kettelhut
+  - Bilon Khambu
+  - Muzamil Majid Khan
+  - Vinoth KM Khandelwal
+  - Sangeeta Khare
+  - Juliann G Kiang
+  - Amy A Kiger
+  - Akio Kihara
+  - Arianna L Kim
+  - Cheol Hyeon Kim
+  - Deok Ryong Kim
+  - Do-Hyung Kim
+  - Eung Kweon Kim
+  - Hye Young Kim
+  - Hyung-Ryong Kim
+  - Jae-Sung Kim
+  - Jeong Hun Kim
+  - Jin Cheon Kim
+  - Jin Hyoung Kim
+  - Kwang Woon Kim
+  - Michael D Kim
+  - Moon-Moo Kim
+  - Peter K Kim
+  - Seong Who Kim
+  - Soo-Youl Kim
+  - Yong-Sun Kim
+  - Yonghyun Kim
+  - Adi Kimchi
+  - Alec C Kimmelman
+  - Tomonori Kimura
+  - Jason S King
+  - Karla Kirkegaard
+  - Vladimir Kirkin
+  - Lorrie A Kirshenbaum
+  - Shuji Kishi
+  - Yasuo Kitajima
+  - Katsuhiko Kitamoto
+  - Yasushi Kitaoka
+  - Kaio Kitazato
+  - Rudolf A Kley
+  - Walter T Klimecki
+  - Michael Klinkenberg
+  - Jochen Klucken
+  - "Helene Kn\xE6velsrud"
+  - Erwin Knecht
+  - Laura Knuppertz
+  - Jiunn-Liang Ko
+  - Satoru Kobayashi
+  - Jan C Koch
+  - Christelle Koechlin-Ramonatxo
+  - Ulrich Koenig
+  - Young Ho Koh
+  - "Katja K\xF6hler"
+  - Sepp D Kohlwein
+  - Masato Koike
+  - Masaaki Komatsu
+  - Eiki Kominami
+  - Dexin Kong
+  - Hee Jeong Kong
+  - Eumorphia G Konstantakou
+  - Benjamin T Kopp
+  - Tamas Korcsmaros
+  - Laura Korhonen
+  - Viktor I Korolchuk
+  - Nadya V Koshkina
+  - Yanjun Kou
+  - Michael I Koukourakis
+  - Constantinos Koumenis
+  - "Attila L Kov\xE1cs"
+  - "Tibor Kov\xE1cs"
+  - Werner J Kovacs
+  - Daisuke Koya
+  - Claudine Kraft
+  - Dimitri Krainc
+  - Helmut Kramer
+  - Tamara Kravic-Stevovic
+  - Wilhelm Krek
+  - Carole Kretz-Remy
+  - Roswitha Krick
+  - Malathi Krishnamurthy
+  - Janos Kriston-Vizi
+  - Guido Kroemer
+  - Michael C Kruer
+  - Rejko Kruger
+  - Nicholas T Ktistakis
+  - Kazuyuki Kuchitsu
+  - Christian Kuhn
+  - Addanki Pratap Kumar
+  - Anuj Kumar
+  - Ashok Kumar
+  - Deepak Kumar
+  - Dhiraj Kumar
+  - Rakesh Kumar
+  - Sharad Kumar
+  - Mondira Kundu
+  - Hsing-Jien Kung
+  - Atsushi Kuno
+  - Sheng-Han Kuo
+  - Jeff Kuret
+  - Tino Kurz
+  - Terry Kwok
+  - Taeg Kyu Kwon
+  - Yong Tae Kwon
+  - Irene Kyrmizi
+  - Albert R La Spada
+  - Frank Lafont
+  - Tim Lahm
+  - Aparna Lakkaraju
+  - Truong Lam
+  - Trond Lamark
+  - Steve Lancel
+  - Terry H Landowski
+  - Darius JR Lane
+  - Jon D Lane
+  - Cinzia Lanzi
+  - Pierre Lapaquette
+  - Louis R Lapierre
+  - Jocelyn Laporte
+  - Johanna Laukkarinen
+  - Gordon W Laurie
+  - Sergio Lavandero
+  - Lena Lavie
+  - Matthew J LaVoie
+  - Betty Yuen Kwan Law
+  - Helen Ka-wai Law
+  - Kelsey B Law
+  - Robert Layfield
+  - Pedro A Lazo
+  - Laurent Le Cam
+  - Karine G Le Roch
+  - "Herv\xE9 Le Stunff"
+  - Vijittra Leardkamolkarn
+  - Marc Lecuit
+  - Byung-Hoon Lee
+  - Che-Hsin Lee
+  - Erinna F Lee
+  - Gyun Min Lee
+  - He-Jin Lee
+  - Hsinyu Lee
+  - Jae Keun Lee
+  - Jongdae Lee
+  - Ju-hyun Lee
+  - Jun Hee Lee
+  - Michael Lee
+  - Myung-Shik Lee
+  - Patty J Lee
+  - Sam W Lee
+  - Seung-Jae Lee
+  - Shiow-Ju Lee
+  - Stella Y Lee
+  - Sug Hyung Lee
+  - Sung Sik Lee
+  - Sung-Joon Lee
+  - Sunhee Lee
+  - Ying-Ray Lee
+  - Yong J Lee
+  - Young H Lee
+  - Christiaan Leeuwenburgh
+  - Sylvain Lefort
+  - Renaud Legouis
+  - Jinzhi Lei
+  - Qun-Ying Lei
+  - David A Leib
+  - Gil Leibowitz
+  - Istvan Lekli
+  - "St\xE9phane D Lemaire"
+  - John J Lemasters
+  - Marius K Lemberg
+  - Antoinette Lemoine
+  - Shuilong Leng
+  - Guido Lenz
+  - Paola Lenzi
+  - Lilach O Lerman
+  - Daniele Lettieri Barbato
+  - Julia I-Ju Leu
+  - Hing Y Leung
+  - Beth Levine
+  - Patrick A Lewis
+  - Frank Lezoualc'h
+  - Chi Li
+  - Faqiang Li
+  - Feng-Jun Li
+  - Jun Li
+  - Ke Li
+  - Lian Li
+  - Min Li
+  - Min Li
+  - Qiang Li
+  - Rui Li
+  - Sheng Li
+  - Wei Li
+  - Wei Li
+  - Xiaotao Li
+  - Yumin Li
+  - Jiqin Lian
+  - Chengyu Liang
+  - Qiangrong Liang
+  - Yulin Liao
+  - Joana Liberal
+  - Pawel P Liberski
+  - Pearl Lie
+  - Andrew P Lieberman
+  - Hyunjung Jade Lim
+  - Kah-Leong Lim
+  - Kyu Lim
+  - Raquel T Lima
+  - Chang-Shen Lin
+  - Chiou-Feng Lin
+  - Fang Lin
+  - Fangming Lin
+  - Fu-Cheng Lin
+  - Kui Lin
+  - Kwang-Huei Lin
+  - Pei-Hui Lin
+  - Tianwei Lin
+  - Wan-Wan Lin
+  - Yee-Shin Lin
+  - Yong Lin
+  - Rafael Linden
+  - Dan Lindholm
+  - Lisa M Lindqvist
+  - Paul Lingor
+  - Andreas Linkermann
+  - Lance A Liotta
+  - Marta M Lipinski
+  - Vitor A Lira
+  - Michael P Lisanti
+  - Paloma B Liton
+  - Bo Liu
+  - Chong Liu
+  - Chun-Feng Liu
+  - Fei Liu
+  - Hung-Jen Liu
+  - Jianxun Liu
+  - Jing-Jing Liu
+  - Jing-Lan Liu
+  - Ke Liu
+  - Leyuan Liu
+  - Liang Liu
+  - Quentin Liu
+  - Rong-Yu Liu
+  - Shiming Liu
+  - Shuwen Liu
+  - Wei Liu
+  - Xian-De Liu
+  - Xiangguo Liu
+  - Xiao-Hong Liu
+  - Xinfeng Liu
+  - Xu Liu
+  - Xueqin Liu
+  - Yang Liu
+  - Yule Liu
+  - Zexian Liu
+  - Zhe Liu
+  - Juan P Liuzzi
+  - "G\xE9rard Lizard"
+  - Mila Ljujic
+  - Irfan J Lodhi
+  - Susan E Logue
+  - Bal L Lokeshwar
+  - Yun Chau Long
+  - Sagar Lonial
+  - Benjamin Loos
+  - "Carlos L\xF3pez-Ot\xEDn"
+  - "Cristina L\xF3pez-Vicario"
+  - Mar Lorente
+  - Philip L Lorenzi
+  - "P\xE9ter L\xF5rincz"
+  - Marek Los
+  - Michael T Lotze
+  - Penny E Lovat
+  - Binfeng Lu
+  - Bo Lu
+  - Jiahong Lu
+  - Qing Lu
+  - She-Min Lu
+  - Shuyan Lu
+  - Yingying Lu
+  - "Fr\xE9d\xE9ric Luciano"
+  - Shirley Luckhart
+  - John Milton Lucocq
+  - Paula Ludovico
+  - Aurelia Lugea
+  - Nicholas W Lukacs
+  - Julian J Lum
+  - Anders H Lund
+  - Honglin Luo
+  - Jia Luo
+  - Shouqing Luo
+  - Claudio Luparello
+  - Timothy Lyons
+  - Jianjie Ma
+  - Yi Ma
+  - Yong Ma
+  - Zhenyi Ma
+  - Juliano Machado
+  - Glaucia M Machado-Santelli
+  - Fernando Macian
+  - Gustavo C MacIntosh
+  - Jeffrey P MacKeigan
+  - Kay F Macleod
+  - John D MacMicking
+  - Lee Ann MacMillan-Crow
+  - Frank Madeo
+  - Muniswamy Madesh
+  - Julio Madrigal-Matute
+  - Akiko Maeda
+  - Tatsuya Maeda
+  - Gustavo Maegawa
+  - Emilia Maellaro
+  - Hannelore Maes
+  - "Marta Magari\xF1os"
+  - Kenneth Maiese
+  - Tapas K Maiti
+  - Luigi Maiuri
+  - Maria Chiara Maiuri
+  - Carl G Maki
+  - Roland Malli
+  - Walter Malorni
+  - Alina Maloyan
+  - Fathia Mami-Chouaib
+  - Na Man
+  - Joseph D Mancias
+  - Eva-Maria Mandelkow
+  - Michael A Mandell
+  - Angelo A Manfredi
+  - "Serge N Mani\xE9"
+  - Claudia Manzoni
+  - Kai Mao
+  - Zixu Mao
+  - Zong-Wan Mao
+  - Philippe Marambaud
+  - Anna Maria Marconi
+  - Zvonimir Marelja
+  - Gabriella Marfe
+  - Marta Margeta
+  - Eva Margittai
+  - Muriel Mari
+  - Francesca V Mariani
+  - Concepcio Marin
+  - Sara Marinelli
+  - "Guillermo Mari\xF1o"
+  - Ivanka Markovic
+  - Rebecca Marquez
+  - Alberto M Martelli
+  - Sascha Martens
+  - Katie R Martin
+  - Seamus J Martin
+  - Shaun Martin
+  - Miguel A Martin-Acebes
+  - "Paloma Mart\xEDn-Sanz"
+  - Camille Martinand-Mari
+  - Wim Martinet
+  - Jennifer Martinez
+  - Nuria Martinez-Lopez
+  - Ubaldo Martinez-Outschoorn
+  - "Mois\xE9s Mart\xEDnez-Vel\xE1zquez"
+  - Marta Martinez-Vicente
+  - Waleska Kerllen Martins
+  - Hirosato Mashima
+  - James A Mastrianni
+  - Giuseppe Matarese
+  - Paola Matarrese
+  - Roberto Mateo
+  - Satoaki Matoba
+  - Naomichi Matsumoto
+  - Takehiko Matsushita
+  - Akira Matsuura
+  - Takeshi Matsuzawa
+  - Mark P Mattson
+  - Soledad Matus
+  - Norma Maugeri
+  - Caroline Mauvezin
+  - Andreas Mayer
+  - Dusica Maysinger
+  - Guillermo D Mazzolini
+  - Mary Kate McBrayer
+  - Kimberly McCall
+  - Craig McCormick
+  - Gerald M McInerney
+  - Skye C McIver
+  - Sharon McKenna
+  - John J McMahon
+  - Iain A McNeish
+  - Fatima Mechta-Grigoriou
+  - Jan Paul Medema
+  - Diego L Medina
+  - Klara Megyeri
+  - Maryam Mehrpour
+  - Jawahar L Mehta
+  - Yide Mei
+  - Ute-Christiane Meier
+  - Alfred J Meijer
+  - "Alicia Mel\xE9ndez"
+  - Gerry Melino
+  - Sonia Melino
+  - Edesio Jose Tenorio de Melo
+  - Maria A Mena
+  - Marc D Meneghini
+  - Javier A Menendez
+  - Regina Menezes
+  - Liesu Meng
+  - Ling-hua Meng
+  - Songshu Meng
+  - Rossella Menghini
+  - A Sue Menko
+  - Rubem FS Menna-Barreto
+  - Manoj B Menon
+  - "Marco A Meraz-R\xEDos"
+  - Giuseppe Merla
+  - Luciano Merlini
+  - Angelica M Merlot
+  - Andreas Meryk
+  - Stefania Meschini
+  - Joel N Meyer
+  - Man-tian Mi
+  - Chao-Yu Miao
+  - Lucia Micale
+  - Simon Michaeli
+  - Carine Michiels
+  - Anna Rita Migliaccio
+  - Anastasia Susie Mihailidou
+  - Dalibor Mijaljica
+  - Katsuhiko Mikoshiba
+  - Enrico Milan
+  - Leonor Miller-Fleming
+  - Gordon B Mills
+  - Ian G Mills
+  - Georgia Minakaki
+  - Berge A Minassian
+  - Xiu-Fen Ming
+  - Farida Minibayeva
+  - Elena A Minina
+  - Justine D Mintern
+  - Saverio Minucci
+  - Antonio Miranda-Vizuete
+  - Claire H Mitchell
+  - Shigeki Miyamoto
+  - Keisuke Miyazawa
+  - Noboru Mizushima
+  - Katarzyna Mnich
+  - Baharia Mograbi
+  - Simin Mohseni
+  - Luis Ferreira Moita
+  - Marco Molinari
+  - Maurizio Molinari
+  - "Andreas Buch M\xF8ller"
+  - Bertrand Mollereau
+  - Faustino Mollinedo
+  - Marco Mongillo
+  - Martha M Monick
+  - Serena Montagnaro
+  - Craig Montell
+  - Darren J Moore
+  - Michael N Moore
+  - Rodrigo Mora-Rodriguez
+  - Paula I Moreira
+  - Etienne Morel
+  - Maria Beatrice Morelli
+  - Sandra Moreno
+  - Michael J Morgan
+  - Arnaud Moris
+  - Yuji Moriyasu
+  - Janna L Morrison
+  - Lynda A Morrison
+  - Eugenia Morselli
+  - Jorge Moscat
+  - Pope L Moseley
+  - Serge Mostowy
+  - Elisa Motori
+  - Denis Mottet
+  - Jeremy C Mottram
+  - Charbel E-H Moussa
+  - Vassiliki E Mpakou
+  - Hasan Mukhtar
+  - Jean M Mulcahy Levy
+  - Sylviane Muller
+  - "Raquel Mu\xF1oz-Moreno"
+  - "Cristina Mu\xF1oz-Pinedo"
+  - "Christian M\xFCnz"
+  - Maureen E Murphy
+  - James T Murray
+  - Aditya Murthy
+  - Indira U Mysorekar
+  - Ivan R Nabi
+  - Massimo Nabissi
+  - Gustavo A Nader
+  - Yukitoshi Nagahara
+  - Yoshitaka Nagai
+  - Kazuhiro Nagata
+  - Anika Nagelkerke
+  - "P\xE9ter Nagy"
+  - Samisubbu R Naidu
+  - Sreejayan Nair
+  - Hiroyasu Nakano
+  - Hitoshi Nakatogawa
+  - Meera Nanjundan
+  - Gennaro Napolitano
+  - Naweed I Naqvi
+  - Roberta Nardacci
+  - Derek P Narendra
+  - Masashi Narita
+  - Anna Chiara Nascimbeni
+  - Ramesh Natarajan
+  - Luiz C Navegantes
+  - Steffan T Nawrocki
+  - Taras Y Nazarko
+  - Volodymyr Y Nazarko
+  - Thomas Neill
+  - Luca M Neri
+  - Mihai G Netea
+  - Romana T Netea-Maier
+  - Bruno M Neves
+  - Paul A Ney
+  - Ioannis P Nezis
+  - Hang TT Nguyen
+  - Huu Phuc Nguyen
+  - Anne-Sophie Nicot
+  - Hilde Nilsen
+  - Per Nilsson
+  - Mikio Nishimura
+  - Ichizo Nishino
+  - Mireia Niso-Santano
+  - Hua Niu
+  - Ralph A Nixon
+  - Vincent CO Njar
+  - Takeshi Noda
+  - Angelika A Noegel
+  - Elsie Magdalena Nolte
+  - Erik Norberg
+  - Koenraad K Norga
+  - Sakineh Kazemi Noureini
+  - Shoji Notomi
+  - Lucia Notterpek
+  - Karin Nowikovsky
+  - Nobuyuki Nukina
+  - "Thorsten N\xFCrnberger"
+  - Valerie B O'Donnell
+  - Tracey O'Donovan
+  - Peter J O'Dwyer
+  - Ina Oehme
+  - Clara L Oeste
+  - Michinaga Ogawa
+  - Besim Ogretmen
+  - Yuji Ogura
+  - Young J Oh
+  - Masaki Ohmuraya
+  - Takayuki Ohshima
+  - Rani Ojha
+  - Koji Okamoto
+  - Toshiro Okazaki
+  - F Javier Oliver
+  - Karin Ollinger
+  - Stefan Olsson
+  - Daniel P Orban
+  - Paulina Ordonez
+  - Idil Orhon
+  - Laszlo Orosz
+  - Eyleen J O'Rourke
+  - Helena Orozco
+  - Angel L Ortega
+  - Elena Ortona
+  - Laura D Osellame
+  - Junko Oshima
+  - Shigeru Oshima
+  - Heinz D Osiewacz
+  - Takanobu Otomo
+  - Kinya Otsu
+  - Jing-hsiung James Ou
+  - Tiago F Outeiro
+  - Dong-yun Ouyang
+  - Hongjiao Ouyang
+  - Michael Overholtzer
+  - Michelle A Ozbun
+  - P Hande Ozdinler
+  - Bulent Ozpolat
+  - Consiglia Pacelli
+  - Paolo Paganetti
+  - "Guyl\xE8ne Page"
+  - Gilles Pages
+  - Ugo Pagnini
+  - Beata Pajak
+  - Stephen C Pak
+  - Karolina Pakos-Zebrucka
+  - Nazzy Pakpour
+  - "Zdena Palkov\xE1"
+  - Francesca Palladino
+  - Kathrin Pallauf
+  - Nicolas Pallet
+  - Marta Palmieri
+  - "S\xF8ren R Paludan"
+  - Camilla Palumbo
+  - Silvia Palumbo
+  - Olatz Pampliega
+  - Hongming Pan
+  - Wei Pan
+  - Theocharis Panaretakis
+  - Aseem Pandey
+  - Areti Pantazopoulou
+  - Zuzana Papackova
+  - Daniela L Papademetrio
+  - Issidora Papassideri
+  - Alessio Papini
+  - Nirmala Parajuli
+  - Julian Pardo
+  - Vrajesh V Parekh
+  - Giancarlo Parenti
+  - Jong-In Park
+  - Junsoo Park
+  - Ohkmae K Park
+  - Roy Parker
+  - Rosanna Parlato
+  - Jan B Parys
+  - Katherine R Parzych
+  - Jean-Max Pasquet
+  - Benoit Pasquier
+  - Kishore BS Pasumarthi
+  - Daniel Patschan
+  - Cam Patterson
+  - Sophie Pattingre
+  - Scott Pattison
+  - Arnim Pause
+  - "Hermann Pavenst\xE4dt"
+  - Flaminia Pavone
+  - Zully Pedrozo
+  - "Fernando J Pe\xF1a"
+  - "Miguel A Pe\xF1alva"
+  - Mario Pende
+  - Jianxin Peng
+  - Fabio Penna
+  - Josef M Penninger
+  - Anna Pensalfini
+  - Salvatore Pepe
+  - Gustavo JS Pereira
+  - Paulo C Pereira
+  - "Ver\xF3nica P\xE9rez-de la Cruz"
+  - "Mar\xEDa Esther P\xE9rez-P\xE9rez"
+  - "Diego P\xE9rez-Rodr\xEDguez"
+  - "Dolores P\xE9rez-Sala"
+  - Celine Perier
+  - Andras Perl
+  - David H Perlmutter
+  - Ida Perrotta
+  - Shazib Pervaiz
+  - Maija Pesonen
+  - Jeffrey E Pessin
+  - Godefridus J Peters
+  - Morten Petersen
+  - Irina Petrache
+  - Basil J Petrof
+  - Goran Petrovski
+  - James M Phang
+  - Mauro Piacentini
+  - Marina Pierdominici
+  - Philippe Pierre
+  - "Val\xE9rie Pierrefite-Carle"
+  - Federico Pietrocola
+  - "Felipe X Pimentel-Mui\xF1os"
+  - Mario Pinar
+  - Benjamin Pineda
+  - Ronit Pinkas-Kramarski
+  - Marcello Pinti
+  - Paolo Pinton
+  - Bilal Piperdi
+  - James M Piret
+  - Leonidas C Platanias
+  - Harald W Platta
+  - Edward D Plowey
+  - "Stefanie P\xF6ggeler"
+  - Marc Poirot
+  - "Peter Pol\u010Dic"
+  - Angelo Poletti
+  - Audrey H Poon
+  - Hana Popelka
+  - Blagovesta Popova
+  - Izabela Poprawa
+  - Shibu M Poulose
+  - Joanna Poulton
+  - Scott K Powers
+  - Ted Powers
+  - Mercedes Pozuelo-Rubio
+  - Krisna Prak
+  - Reinhild Prange
+  - Mark Prescott
+  - Muriel Priault
+  - Sharon Prince
+  - Richard L Proia
+  - Tassula Proikas-Cezanne
+  - Holger Prokisch
+  - Vasilis J Promponas
+  - Karin Przyklenk
+  - Rosa Puertollano
+  - Subbiah Pugazhenthi
+  - Luigi Puglielli
+  - Aurora Pujol
+  - Julien Puyal
+  - Dohun Pyeon
+  - Xin Qi
+  - Wen-bin Qian
+  - Zheng-Hong Qin
+  - Yu Qiu
+  - Ziwei Qu
+  - Joe Quadrilatero
+  - Frederick Quinn
+  - Nina Raben
+  - Hannah Rabinowich
+  - Flavia Radogna
+  - Michael J Ragusa
+  - Mohamed Rahmani
+  - Komal Raina
+  - Sasanka Ramanadham
+  - Rajagopal Ramesh
+  - Abdelhaq Rami
+  - Sarron Randall-Demllo
+  - Felix Randow
+  - Hai Rao
+  - V Ashutosh Rao
+  - Blake B Rasmussen
+  - Tobias M Rasse
+  - Edward A Ratovitski
+  - Pierre-Emmanuel Rautou
+  - Swapan K Ray
+  - Babak Razani
+  - Bruce H Reed
+  - Fulvio Reggiori
+  - Markus Rehm
+  - Andreas S Reichert
+  - Theo Rein
+  - David J Reiner
+  - Eric Reits
+  - Jun Ren
+  - Xingcong Ren
+  - Maurizio Renna
+  - Jane EB Reusch
+  - Jose L Revuelta
+  - Leticia Reyes
+  - Alireza R Rezaie
+  - Robert I Richards
+  - Des R Richardson
+  - "Cl\xE9mence Richetta"
+  - Michael A Riehle
+  - Bertrand H Rihn
+  - Yasuko Rikihisa
+  - Brigit E Riley
+  - Gerald Rimbach
+  - Maria Rita Rippo
+  - Konstantinos Ritis
+  - Federica Rizzi
+  - Elizete Rizzo
+  - Peter J Roach
+  - Jeffrey Robbins
+  - Michel Roberge
+  - Gabriela Roca
+  - Maria Carmela Roccheri
+  - Sonia Rocha
+  - Cecilia MP Rodrigues
+  - "Clara I Rodr\xEDguez"
+  - Santiago Rodriguez de Cordoba
+  - Natalia Rodriguez-Muela
+  - Jeroen Roelofs
+  - Vladimir V Rogov
+  - Troy T Rohn
+  - "B\xE4rbel Rohrer"
+  - Davide Romanelli
+  - Luigina Romani
+  - Patricia Silvia Romano
+  - M Isabel G Roncero
+  - Jose Luis Rosa
+  - Alicia Rosello
+  - Kirill V Rosen
+  - Philip Rosenstiel
+  - Magdalena Rost-Roszkowska
+  - Kevin A Roth
+  - "Gael Rou\xE9"
+  - Mustapha Rouis
+  - Kasper M Rouschop
+  - Daniel T Ruan
+  - Diego Ruano
+  - David C Rubinsztein
+  - Edmund B Rucker
+  - Assaf Rudich
+  - Emil Rudolf
+  - Ruediger Rudolf
+  - Markus A Ruegg
+  - Carmen Ruiz-Roldan
+  - Avnika Ashok Ruparelia
+  - Paola Rusmini
+  - David W Russ
+  - Gian Luigi Russo
+  - Giuseppe Russo
+  - Rossella Russo
+  - Tor Erik Rusten
+  - Victoria Ryabovol
+  - Kevin M Ryan
+  - Stefan W Ryter
+  - David M Sabatini
+  - Michael Sacher
+  - Carsten Sachse
+  - Michael N Sack
+  - Junichi Sadoshima
+  - Paul Saftig
+  - Ronit Sagi-Eisenberg
+  - Sumit Sahni
+  - Pothana Saikumar
+  - Tsunenori Saito
+  - Tatsuya Saitoh
+  - Koichi Sakakura
+  - Machiko Sakoh-Nakatogawa
+  - Yasuhito Sakuraba
+  - "Mar\xEDa Salazar-Roa"
+  - Paolo Salomoni
+  - Ashok K Saluja
+  - Paul M Salvaterra
+  - Rosa Salvioli
+  - Afshin Samali
+  - Anthony MJ Sanchez
+  - "Jos\xE9 A S\xE1nchez-Alc\xE1zar"
+  - Ricardo Sanchez-Prieto
+  - Marco Sandri
+  - Miguel A Sanjuan
+  - Stefano Santaguida
+  - Laura Santambrogio
+  - Giorgio Santoni
+  - Claudia Nunes dos Santos
+  - Shweta Saran
+  - Marco Sardiello
+  - Graeme Sargent
+  - Pallabi Sarkar
+  - Sovan Sarkar
+  - Maria Rosa Sarrias
+  - Minnie M Sarwal
+  - Chihiro Sasakawa
+  - Motoko Sasaki
+  - Miklos Sass
+  - Ken Sato
+  - Miyuki Sato
+  - Joseph Satriano
+  - Niramol Savaraj
+  - Svetlana Saveljeva
+  - Liliana Schaefer
+  - Ulrich E Schaible
+  - Michael Scharl
+  - Hermann M Schatzl
+  - Randy Schekman
+  - Wiep Scheper
+  - Alfonso Schiavi
+  - Hyman M Schipper
+  - Hana Schmeisser
+  - Jens Schmidt
+  - Ingo Schmitz
+  - Bianca E Schneider
+  - E Marion Schneider
+  - Jaime L Schneider
+  - Eric A Schon
+  - "Miriam J Sch\xF6nenberger"
+  - "Axel H Sch\xF6nthal"
+  - Daniel F Schorderet
+  - "Bernd Schr\xF6der"
+  - Sebastian Schuck
+  - Ryan J Schulze
+  - Melanie Schwarten
+  - Thomas L Schwarz
+  - Sebastiano Sciarretta
+  - Kathleen Scotto
+  - A Ivana Scovassi
+  - Robert A Screaton
+  - Mark Screen
+  - Hugo Seca
+  - Simon Sedej
+  - Laura Segatori
+  - Nava Segev
+  - Per O Seglen
+  - "Jose M Segu\xED-Simarro"
+  - Juan Segura-Aguilar
+  - Ekihiro Seki
+  - Iban Seiliez
+  - Christian Sell
+  - Clay F Semenkovich
+  - Gregg L Semenza
+  - Utpal Sen
+  - Andreas L Serra
+  - Ana Serrano-Puebla
+  - Hiromi Sesaki
+  - Takao Setoguchi
+  - Carmine Settembre
+  - John J Shacka
+  - Ayesha N Shajahan-Haq
+  - Irving M Shapiro
+  - Shweta Sharma
+  - Hua She
+  - C-K James Shen
+  - Chiung-Chyi Shen
+  - Han-Ming Shen
+  - Sanbing Shen
+  - Weili Shen
+  - Rui Sheng
+  - Xianyong Sheng
+  - Zu-Hang Sheng
+  - Trevor G Shepherd
+  - Junyan Shi
+  - Qiang Shi
+  - Qinghua Shi
+  - Yuguang Shi
+  - Shusaku Shibutani
+  - Kenichi Shibuya
+  - Yoshihiro Shidoji
+  - Jeng-Jer Shieh
+  - Chwen-Ming Shih
+  - Yohta Shimada
+  - Shigeomi Shimizu
+  - Dong Wook Shin
+  - Mari L Shinohara
+  - Michiko Shintani
+  - Takahiro Shintani
+  - Tetsuo Shioi
+  - Ken Shirabe
+  - Ronit Shiri-Sverdlov
+  - Orian Shirihai
+  - Gordon C Shore
+  - Chih-Wen Shu
+  - Deepak Shukla
+  - Andriy A Sibirny
+  - Valentina Sica
+  - Christina J Sigurdson
+  - Einar M Sigurdsson
+  - Puran Singh Sijwali
+  - Beata Sikorska
+  - Wilian A Silveira
+  - Sandrine Silvente-Poirot
+  - Gary A Silverman
+  - Jan Simak
+  - Thomas Simmet
+  - Anna Katharina Simon
+  - Hans-Uwe Simon
+  - Cristiano Simone
+  - Matias Simons
+  - Anne Simonsen
+  - Rajat Singh
+  - Shivendra V Singh
+  - Shrawan K Singh
+  - Debasish Sinha
+  - Sangita Sinha
+  - Frank A Sinicrope
+  - Agnieszka Sirko
+  - Kapil Sirohi
+  - Balindiwe JN Sishi
+  - Annie Sittler
+  - Parco M Siu
+  - Efthimios Sivridis
+  - Anna Skwarska
+  - Ruth Slack
+  - "Iva Slaninov\xE1"
+  - Nikolai Slavov
+  - Soraya S Smaili
+  - Keiran SM Smalley
+  - Duncan R Smith
+  - Stefaan J Soenen
+  - Scott A Soleimanpour
+  - Anita Solhaug
+  - Kumaravel Somasundaram
+  - Jin H Son
+  - Avinash Sonawane
+  - Chunjuan Song
+  - Fuyong Song
+  - Hyun Kyu Song
+  - Ju-Xian Song
+  - Wei Song
+  - Kai Y Soo
+  - Anil K Sood
+  - Tuck Wah Soong
+  - Virawudh Soontornniyomkij
+  - Maurizio Sorice
+  - Federica Sotgia
+  - David R Soto-Pantoja
+  - Areechun Sotthibundhu
+  - "Maria Jo\xE3o Sousa"
+  - Herman P Spaink
+  - Paul N Span
+  - Anne Spang
+  - Janet D Sparks
+  - Peter G Speck
+  - Stephen A Spector
+  - Claudia D Spies
+  - Wolfdieter Springer
+  - Daret St Clair
+  - Alessandra Stacchiotti
+  - Bart Staels
+  - Michael T Stang
+  - Daniel T Starczynowski
+  - Petro Starokadomskyy
+  - Clemens Steegborn
+  - John W Steele
+  - Leonidas Stefanis
+  - Joan Steffan
+  - Christine M Stellrecht
+  - Harald Stenmark
+  - Tomasz M Stepkowski
+  - "St\u0119phan T Stern"
+  - Craig Stevens
+  - Brent R Stockwell
+  - Veronika Stoka
+  - Zuzana Storchova
+  - "Bj\xF6rn Stork"
+  - Vassilis Stratoulias
+  - Dimitrios J Stravopodis
+  - Pavel Strnad
+  - Anne Marie Strohecker
+  - "Anna-Lena Str\xF6m"
+  - Per Stromhaug
+  - Jiri Stulik
+  - Yu-Xiong Su
+  - Zhaoliang Su
+  - Carlos S Subauste
+  - Srinivasa Subramaniam
+  - Carolyn M Sue
+  - Sang Won Suh
+  - Xinbing Sui
+  - Supawadee Sukseree
+  - David Sulzer
+  - Fang-Lin Sun
+  - Jiaren Sun
+  - Jun Sun
+  - Shi-Yong Sun
+  - Yang Sun
+  - Yi Sun
+  - Yingjie Sun
+  - Vinod Sundaramoorthy
+  - Joseph Sung
+  - Hidekazu Suzuki
+  - Kuninori Suzuki
+  - Naoki Suzuki
+  - Tadashi Suzuki
+  - Yuichiro J Suzuki
+  - Michele S Swanson
+  - Charles Swanton
+  - "Karl Sw\xE4rd"
+  - Ghanshyam Swarup
+  - Sean T Sweeney
+  - Paul W Sylvester
+  - Zsuzsanna Szatmari
+  - Eva Szegezdi
+  - Peter W Szlosarek
+  - Heinrich Taegtmeyer
+  - Marco Tafani
+  - Emmanuel Taillebourg
+  - Stephen WG Tait
+  - Krisztina Takacs-Vellai
+  - Yoshinori Takahashi
+  - "Szabolcs Tak\xE1ts"
+  - Genzou Takemura
+  - Nagio Takigawa
+  - Nicholas J Talbot
+  - Elena Tamagno
+  - Jerome Tamburini
+  - Cai-Ping Tan
+  - Lan Tan
+  - Mei Lan Tan
+  - Ming Tan
+  - Yee-Joo Tan
+  - Keiji Tanaka
+  - Masaki Tanaka
+  - Daolin Tang
+  - Dingzhong Tang
+  - Guomei Tang
+  - Isei Tanida
+  - Kunikazu Tanji
+  - Bakhos A Tannous
+  - Jose A Tapia
+  - Inmaculada Tasset-Cuevas
+  - Marc Tatar
+  - Iman Tavassoly
+  - Nektarios Tavernarakis
+  - Allen Taylor
+  - Graham S Taylor
+  - Gregory A Taylor
+  - J Paul Taylor
+  - Mark J Taylor
+  - Elena V Tchetina
+  - Andrew R Tee
+  - Fatima Teixeira-Clerc
+  - Sucheta Telang
+  - Tewin Tencomnao
+  - Ba-Bie Teng
+  - Ru-Jeng Teng
+  - Faraj Terro
+  - Gianluca Tettamanti
+  - Arianne L Theiss
+  - Anne E Theron
+  - Kelly Jean Thomas
+  - "Marcos P Thom\xE9"
+  - Paul G Thomes
+  - Andrew Thorburn
+  - Jeremy Thorner
+  - Thomas Thum
+  - Michael Thumm
+  - Teresa LM Thurston
+  - Ling Tian
+  - Andreas Till
+  - Jenny Pan-yun Ting
+  - Vladimir I Titorenko
+  - Lilach Toker
+  - Stefano Toldo
+  - Sharon A Tooze
+  - Ivan Topisirovic
+  - Maria Lyngaas Torgersen
+  - Liliana Torosantucci
+  - Alicia Torriglia
+  - Maria Rosaria Torrisi
+  - Cathy Tournier
+  - Roberto Towns
+  - Vladimir Trajkovic
+  - Leonardo H Travassos
+  - Gemma Triola
+  - Durga Nand Tripathi
+  - Daniela Trisciuoglio
+  - Rodrigo Troncoso
+  - Ioannis P Trougakos
+  - Anita C Truttmann
+  - Kuen-Jer Tsai
+  - Mario P Tschan
+  - Yi-Hsin Tseng
+  - Takayuki Tsukuba
+  - Allan Tsung
+  - Andrey S Tsvetkov
+  - Shuiping Tu
+  - Hsing-Yu Tuan
+  - Marco Tucci
+  - David A Tumbarello
+  - Boris Turk
+  - Vito Turk
+  - Robin FB Turner
+  - Anders A Tveita
+  - Suresh C Tyagi
+  - Makoto Ubukata
+  - Yasuo Uchiyama
+  - Andrej Udelnow
+  - Takashi Ueno
+  - Midori Umekawa
+  - Rika Umemiya-Shirafuji
+  - Benjamin R Underwood
+  - Christian Ungermann
+  - Rodrigo P. Ureshino
+  - Ryo Ushioda
+  - Vladimir N Uversky
+  - "N\xE9stor L Uzc\xE1tegui"
+  - Thomas Vaccari
+  - Maria I Vaccaro
+  - "Libu\u0161e V\xE1chov\xE1"
+  - Helin Vakifahmetoglu-Norberg
+  - Rut Valdor
+  - Enza Maria Valente
+  - Francois Vallette
+  - Angela M Valverde
+  - Greet Van den Berghe
+  - Ludo Van Den Bosch
+  - Gijs R van den Brink
+  - F Gisou van der Goot
+  - Ida J van der Klei
+  - Luc JW van der Laan
+  - Wouter G van Doorn
+  - Marjolein van Egmond
+  - Kenneth L van Golen
+  - Luc Van Kaer
+  - Menno van Lookeren Campagne
+  - Peter Vandenabeele
+  - Wim Vandenberghe
+  - Ilse Vanhorebeek
+  - Isabel Varela-Nieto
+  - M Helena Vasconcelos
+  - Radovan Vasko
+  - Demetrios G Vavvas
+  - Ignacio Vega-Naredo
+  - Guillermo Velasco
+  - Athanassios D Velentzas
+  - Panagiotis D Velentzas
+  - Tibor Vellai
+  - Edo Vellenga
+  - Mikkel Holm Vendelbo
+  - Kartik Venkatachalam
+  - Natascia Ventura
+  - Salvador Ventura
+  - "Patr\xEDcia ST Veras"
+  - Mireille Verdier
+  - Beata G Vertessy
+  - Andrea Viale
+  - Michel Vidal
+  - Helena LA Vieira
+  - Richard D Vierstra
+  - Nadarajah Vigneswaran
+  - Neeraj Vij
+  - Miquel Vila
+  - Margarita Villar
+  - Victor H Villar
+  - Joan Villarroya
+  - "C\xE9cile Vindis"
+  - Giampietro Viola
+  - Maria Teresa Viscomi
+  - Giovanni Vitale
+  - Dan T Vogl
+  - Olga V Voitsekhovskaja
+  - Clarissa von Haefen
+  - Karin von Schwarzenberg
+  - Daniel E Voth
+  - "Val\xE9rie Vouret-Craviari"
+  - Kristina Vuori
+  - Jatin M Vyas
+  - Christian Waeber
+  - Cheryl Lyn Walker
+  - Mark J Walker
+  - Jochen Walter
+  - Lei Wan
+  - Xiangbo Wan
+  - Bo Wang
+  - Caihong Wang
+  - Chao-Yung Wang
+  - Chengshu Wang
+  - Chenran Wang
+  - Chuangui Wang
+  - Dong Wang
+  - Fen Wang
+  - Fuxin Wang
+  - Guanghui Wang
+  - Hai-jie Wang
+  - Haichao Wang
+  - Hong-Gang Wang
+  - Hongmin Wang
+  - Horng-Dar Wang
+  - Jing Wang
+  - Junjun Wang
+  - Mei Wang
+  - Mei-Qing Wang
+  - Pei-Yu Wang
+  - Peng Wang
+  - Richard C Wang
+  - Shuo Wang
+  - Ting-Fang Wang
+  - Xian Wang
+  - Xiao-jia Wang
+  - Xiao-Wei Wang
+  - Xin Wang
+  - Xuejun Wang
+  - Yan Wang
+  - Yanming Wang
+  - Ying Wang
+  - Ying-Jan Wang
+  - Yipeng Wang
+  - Yu Wang
+  - Yu Tian Wang
+  - Yuqing Wang
+  - Zhi-Nong Wang
+  - Pablo Wappner
+  - Carl Ward
+  - Diane McVey Ward
+  - Gary Warnes
+  - Hirotaka Watada
+  - Yoshihisa Watanabe
+  - Kei Watase
+  - Timothy E Weaver
+  - Colin D Weekes
+  - Jiwu Wei
+  - Thomas Weide
+  - Conrad C Weihl
+  - "G\xFCnther Weindl"
+  - Simone Nardin Weis
+  - Longping Wen
+  - Xin Wen
+  - Yunfei Wen
+  - Benedikt Westermann
+  - Cornelia M Weyand
+  - Anthony R White
+  - Eileen White
+  - J Lindsay Whitton
+  - Alexander J Whitworth
+  - "Jo\xEBlle Wiels"
+  - Franziska Wild
+  - Manon E Wildenberg
+  - Tom Wileman
+  - Deepti Srinivas Wilkinson
+  - Simon Wilkinson
+  - Dieter Willbold
+  - Chris Williams
+  - Katherine Williams
+  - Peter R Williamson
+  - Konstanze F Winklhofer
+  - Steven S Witkin
+  - Stephanie E Wohlgemuth
+  - Thomas Wollert
+  - Ernst J Wolvetang
+  - Esther Wong
+  - G William Wong
+  - Richard W Wong
+  - Vincent Kam Wai Wong
+  - Elizabeth A Woodcock
+  - Karen L Wright
+  - Chunlai Wu
+  - Defeng Wu
+  - Gen Sheng Wu
+  - Jian Wu
+  - Junfang Wu
+  - Mian Wu
+  - Min Wu
+  - Shengzhou Wu
+  - William KK Wu
+  - Yaohua Wu
+  - Zhenlong Wu
+  - Cristina PR Xavier
+  - Ramnik J Xavier
+  - Gui-Xian Xia
+  - Tian Xia
+  - Weiliang Xia
+  - Yong Xia
+  - Hengyi Xiao
+  - Jian Xiao
+  - Shi Xiao
+  - Wuhan Xiao
+  - Chuan-Ming Xie
+  - Zhiping Xie
+  - Zhonglin Xie
+  - Maria Xilouri
+  - Yuyan Xiong
+  - Chuanshan Xu
+  - Congfeng Xu
+  - Feng Xu
+  - Haoxing Xu
+  - Hongwei Xu
+  - Jian Xu
+  - Jianzhen Xu
+  - Jinxian Xu
+  - Liang Xu
+  - Xiaolei Xu
+  - Yangqing Xu
+  - Ye Xu
+  - Zhi-Xiang Xu
+  - Ziheng Xu
+  - Yu Xue
+  - Takahiro Yamada
+  - Ai Yamamoto
+  - Koji Yamanaka
+  - Shunhei Yamashina
+  - Shigeko Yamashiro
+  - Bing Yan
+  - Bo Yan
+  - Xianghua Yan
+  - Zhen Yan
+  - Yasuo Yanagi
+  - Dun-Sheng Yang
+  - Jin-Ming Yang
+  - Liu Yang
+  - Minghua Yang
+  - Pei-Ming Yang
+  - Peixin Yang
+  - Qian Yang
+  - Wannian Yang
+  - Wei Yuan Yang
+  - Xuesong Yang
+  - Yi Yang
+  - Ying Yang
+  - Zhifen Yang
+  - Zhihong Yang
+  - Meng-Chao Yao
+  - Pamela J Yao
+  - Xiaofeng Yao
+  - Zhenyu Yao
+  - Zhiyuan Yao
+  - Linda S Yasui
+  - Mingxiang Ye
+  - Barry Yedvobnick
+  - Behzad Yeganeh
+  - Elizabeth S Yeh
+  - Patricia L Yeyati
+  - Fan Yi
+  - Long Yi
+  - Xiao-Ming Yin
+  - Calvin K Yip
+  - Yeong-Min Yoo
+  - Young Hyun Yoo
+  - Seung-Yong Yoon
+  - Ken-Ichi Yoshida
+  - Tamotsu Yoshimori
+  - Ken H Young
+  - Huixin Yu
+  - Jane J Yu
+  - Jin-Tai Yu
+  - Jun Yu
+  - Li Yu
+  - W Haung Yu
+  - Xiao-Fang Yu
+  - Zhengping Yu
+  - Junying Yuan
+  - Zhi-Min Yuan
+  - Beatrice YJT Yue
+  - Jianbo Yue
+  - Zhenyu Yue
+  - David N Zacks
+  - Eldad Zacksenhaus
+  - Nadia Zaffaroni
+  - Tania Zaglia
+  - Zahra Zakeri
+  - Vincent Zecchini
+  - Jinsheng Zeng
+  - Min Zeng
+  - Qi Zeng
+  - Antonis S Zervos
+  - Donna D Zhang
+  - Fan Zhang
+  - Guo Zhang
+  - Guo-Chang Zhang
+  - Hao Zhang
+  - Hong Zhang
+  - Hong Zhang
+  - Hongbing Zhang
+  - Jian Zhang
+  - Jian Zhang
+  - Jiangwei Zhang
+  - Jianhua Zhang
+  - Jing-pu Zhang
+  - Li Zhang
+  - Lin Zhang
+  - Lin Zhang
+  - Long Zhang
+  - Ming-Yong Zhang
+  - Xiangnan Zhang
+  - Xu Dong Zhang
+  - Yan Zhang
+  - Yang Zhang
+  - Yanjin Zhang
+  - Yingmei Zhang
+  - Yunjiao Zhang
+  - Mei Zhao
+  - Wei-Li Zhao
+  - Xiaonan Zhao
+  - Yan G Zhao
+  - Ying Zhao
+  - Yongchao Zhao
+  - Yu-xia Zhao
+  - Zhendong Zhao
+  - Zhizhuang J Zhao
+  - Dexian Zheng
+  - Xi-Long Zheng
+  - Xiaoxiang Zheng
+  - Boris Zhivotovsky
+  - Qing Zhong
+  - Guang-Zhou Zhou
+  - Guofei Zhou
+  - Huiping Zhou
+  - Shu-Feng Zhou
+  - Xu-jie Zhou
+  - Hongxin Zhu
+  - Hua Zhu
+  - Wei-Guo Zhu
+  - Wenhua Zhu
+  - Xiao-Feng Zhu
+  - Yuhua Zhu
+  - Shi-Mei Zhuang
+  - Xiaohong Zhuang
+  - Elio Ziparo
+  - Christos E Zois
+  - Teresa Zoladek
+  - Wei-Xing Zong
+  - Antonio Zorzano
+  - Susu M Zughaier
+  publisher: Autophagy
+  date: '2016-01-02'
+  link: https://doi.org/f3psdn
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/leu.2015.329
+  title: Mtss1 is a critical epigenetically regulated tumor suppressor in CML
+  authors:
+  - M Schemionek
+  - O Herrmann
+  - M M Reher
+  - N Chatain
+  - C Schubert
+  - I G Costa
+  - "S H\xE4nzelmann"
+  - E G Gusmao
+  - S Kintsler
+  - T Braunschweig
+  - A Hamilton
+  - G V Helgason
+  - M Copland
+  - A Schwab
+  - "C M\xFCller-Tidow"
+  - S Li
+  - T L Holyoake
+  - "T H Br\xFCmmendorf"
+  - S Koschmieder
+  publisher: Leukemia
+  date: '2015-12-01'
+  link: https://doi.org/f8hsrn
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1111/imr.12234
+  title: Do we need more drugs for chronic myeloid leukemia?
+  authors:
+  - Tessa L. Holyoake
+  - G. Vignir Helgason
+  publisher: Immunological Reviews
+  date: '2014-12-15'
+  link: https://doi.org/f8k97d
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/stem.1748
+  title: The Antiproliferative Activity of Kinase Inhibitors in Chronic Myeloid Leukemia
+    Cells Is Mediated by FOXO Transcription Factors
+  authors:
+  - Francesca Pellicano
+  - Mary T. Scott
+  - G. Vignir Helgason
+  - Lisa E. M. Hopcroft
+  - Elaine K. Allan
+  - "Mark Aspinall-O\u2019Dea"
+  - Mhairi Copland
+  - Andrew Pierce
+  - Brian J. P. Huntly
+  - Anthony D. Whetton
+  - Tessa L. Holyoake
+  publisher: Stem Cells
+  date: '2014-08-18'
+  link: https://doi.org/f6fn8w
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3324/haematol.2012.079061
+  title: 'Autophagy in blood cancers: biological role and therapeutic implications'
+  authors:
+  - A. Nencioni
+  - M. Cea
+  - F. Montecucco
+  - V. D. Longo
+  - F. Patrone
+  - A. M. Carella
+  - T. L. Holyoake
+  - G. V. Helgason
+  publisher: Haematologica
+  date: '2013-09-01'
+  link: https://doi.org/f5dvq8
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2174/15680096113139990088
+  title: 'Autophagy in Chronic Myeloid Leukaemia: Stem Cell Survival and Implication
+    in Therapy'
+  authors:
+  - Gudmundur Helgason
+  - Arunima Mukhopadhyay
+  - Maria Karvela
+  - Paolo Salomoni
+  - Bruno Calabretta
+  - Tessa Holyoake
+  publisher: Current Cancer Drug Targets
+  date: '2013-08-31'
+  link: https://doi.org/g9wgfw
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/JCI71197
+  title: "Targeting autophagy potentiates tyrosine kinase inhibitor\u2013induced cell\
+    \ death in Philadelphia chromosome\u2013positive cells, including primary CML\
+    \ stem cells"
+  authors:
+  - Cristian Bellodi
+  - Maria Rosa Lidonnici
+  - Ashley Hamilton
+  - G. Vignir Helgason
+  - Angela Rachele Soliera
+  - Mattia Ronchetti
+  - Sara Galavotti
+  - Kenneth W. Young
+  - Tommaso Selmi
+  - Rinat Yacobi
+  - Richard A. Van Etten
+  - Nick Donato
+  - Ann Hunter
+  - David Dinsdale
+  - "Elena Tirr\xF2"
+  - Paolo Vigneri
+  - Pierluigi Nicotera
+  - Martin J. Dyer
+  - Tessa Holyoake
+  - Paolo Salomoni
+  - Bruno Calabretta
+  publisher: Journal of Clinical Investigation
+  date: '2013-08-01'
+  link: https://doi.org/g9wgfx
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1042/bse0550133
+  title: Role of autophagy in cancer prevention, development and therapy
+  authors:
+  - G. Vignir Helgason
+  - Tessa L. Holyoake
+  - Kevin M. Ryan
+  publisher: Essays in Biochemistry
+  date: '2013-09-27'
+  link: https://doi.org/g9wgfz
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.4161/auto.19496
+  title: Guidelines for the use and interpretation of assays for monitoring autophagy
+  authors:
+  - Daniel J. Klionsky
+  - Fabio C. Abdalla
+  - Hagai Abeliovich
+  - Robert T. Abraham
+  - Abraham Acevedo-Arozena
+  - Khosrow Adeli
+  - Lotta Agholme
+  - Maria Agnello
+  - Patrizia Agostinis
+  - Julio A. Aguirre-Ghiso
+  - Hyung Jun Ahn
+  - Ouardia Ait-Mohamed
+  - Slimane Ait-Si-Ali
+  - Takahiko Akematsu
+  - Shizuo Akira
+  - Hesham M. Al-Younes
+  - Munir A. Al-Zeer
+  - Matthew L. Albert
+  - Roger L. Albin
+  - Javier Alegre-Abarrategui
+  - Maria Francesca Aleo
+  - Mehrdad Alirezaei
+  - Alexandru Almasan
+  - Maylin Almonte-Becerril
+  - Atsuo Amano
+  - Ravi K. Amaravadi
+  - Shoba Amarnath
+  - Amal O. Amer
+  - Nathalie Andrieu-Abadie
+  - Vellareddy Anantharam
+  - David K. Ann
+  - Shailendra Anoopkumar-Dukie
+  - Hiroshi Aoki
+  - Nadezda Apostolova
+  - Giuseppe Arancia
+  - John P. Aris
+  - Katsuhiko Asanuma
+  - Nana Y.O. Asare
+  - Hisashi Ashida
+  - Valerie Askanas
+  - David S. Askew
+  - Patrick Auberger
+  - Misuzu Baba
+  - Steven K. Backues
+  - Eric H. Baehrecke
+  - Ben A. Bahr
+  - Xue-Yuan Bai
+  - Yannick Bailly
+  - Robert Baiocchi
+  - Giulia Baldini
+  - Walter Balduini
+  - Andrea Ballabio
+  - Bruce A. Bamber
+  - Edward T.W. Bampton
+  - "G\xE1bor Juh\xE1sz"
+  - Clinton R. Bartholomew
+  - Diane C. Bassham
+  - Robert C. Bast
+  - Henri Batoko
+  - Boon-Huat Bay
+  - Isabelle Beau
+  - "Daniel M. B\xE9chet"
+  - Thomas J. Begley
+  - Christian Behl
+  - Christian Behrends
+  - Soumeya Bekri
+  - Bryan Bellaire
+  - Linda J. Bendall
+  - Luca Benetti
+  - Laura Berliocchi
+  - Henri Bernardi
+  - Francesca Bernassola
+  - "S\xE9bastien Besteiro"
+  - Ingrid Bhatia-Kissova
+  - Xiaoning Bi
+  - Martine Biard-Piechaczyk
+  - Janice S. Blum
+  - Lawrence H. Boise
+  - Paolo Bonaldo
+  - David L. Boone
+  - Beat C. Bornhauser
+  - Karina R. Bortoluci
+  - Ioannis Bossis
+  - "Fr\xE9d\xE9ric Bost"
+  - Jean-Pierre Bourquin
+  - Patricia Boya
+  - "Micha\xEBl Boyer-Guittaut"
+  - Peter V. Bozhkov
+  - Nathan R Brady
+  - Claudio Brancolini
+  - Andreas Brech
+  - Jay E. Brenman
+  - Ana Brennand
+  - Emery H. Bresnick
+  - Patrick Brest
+  - Dave Bridges
+  - Molly L. Bristol
+  - Paul S. Brookes
+  - Eric J. Brown
+  - John H. Brumell
+  - Nicola Brunetti-Pierri
+  - Ulf T. Brunk
+  - Dennis E. Bulman
+  - Scott J. Bultman
+  - Geert Bultynck
+  - Lena F. Burbulla
+  - Wilfried Bursch
+  - Jonathan P. Butchar
+  - Wanda Buzgariu
+  - Sergio P. Bydlowski
+  - Ken Cadwell
+  - "Monika Cahov\xE1"
+  - Dongsheng Cai
+  - Jiyang Cai
+  - Qian Cai
+  - Bruno Calabretta
+  - Javier Calvo-Garrido
+  - Nadine Camougrand
+  - Michelangelo Campanella
+  - Jenny Campos-Salinas
+  - Eleonora Candi
+  - Lizhi Cao
+  - Allan B. Caplan
+  - Simon R. Carding
+  - Sandra M. Cardoso
+  - Jennifer S. Carew
+  - Cathleen R. Carlin
+  - Virginie Carmignac
+  - Leticia A.M. Carneiro
+  - Serena Carra
+  - Rosario A. Caruso
+  - Giorgio Casari
+  - Caty Casas
+  - Roberta Castino
+  - Eduardo Cebollero
+  - Francesco Cecconi
+  - Jean Celli
+  - Hassan Chaachouay
+  - Han-Jung Chae
+  - Chee-Yin Chai
+  - David C. Chan
+  - Edmond Y. Chan
+  - Raymond Chuen-Chung Chang
+  - Chi-Ming Che
+  - Ching-Chow Chen
+  - Guang-Chao Chen
+  - Guo-Qiang Chen
+  - Min Chen
+  - Quan Chen
+  - Steve S.-L. Chen
+  - WenLi Chen
+  - Xi Chen
+  - Xiangmei Chen
+  - Xiequn Chen
+  - Ye-Guang Chen
+  - Yingyu Chen
+  - Yongqiang Chen
+  - Yu-Jen Chen
+  - Zhixiang Chen
+  - Alan Cheng
+  - Christopher H.K. Cheng
+  - Yan Cheng
+  - Heesun Cheong
+  - Jae-Ho Cheong
+  - Sara Cherry
+  - Russ Chess-Williams
+  - Zelda H. Cheung
+  - Eric Chevet
+  - Hui-Ling Chiang
+  - Roberto Chiarelli
+  - Tomoki Chiba
+  - Lih-Shen Chin
+  - Shih-Hwa Chiou
+  - Francis V. Chisari
+  - Chi Hin Cho
+  - Dong-Hyung Cho
+  - Augustine M.K. Choi
+  - DooSeok Choi
+  - Kyeong Sook Choi
+  - Mary E. Choi
+  - Salem Chouaib
+  - Divaker Choubey
+  - Vinay Choubey
+  - Charleen T. Chu
+  - Tsung-Hsien Chuang
+  - Sheau-Huei Chueh
+  - Taehoon Chun
+  - Yong-Joon Chwae
+  - Mee-Len Chye
+  - Roberto Ciarcia
+  - Maria R. Ciriolo
+  - Michael J. Clague
+  - Robert S.B. Clark
+  - Peter G.H. Clarke
+  - Robert Clarke
+  - Patrice Codogno
+  - Hilary A. Coller
+  - "Mar\xEDa I. Colombo"
+  - Sergio Comincini
+  - Maria Condello
+  - Fabrizio Condorelli
+  - Mark R. Cookson
+  - Graham H. Coombs
+  - Isabelle Coppens
+  - Ramon Corbalan
+  - Pascale Cossart
+  - Paola Costelli
+  - Safia Costes
+  - Ana Coto-Montes
+  - Eduardo Couve
+  - Fraser P. Coxon
+  - James M. Cregg
+  - "Jos\xE9 L. Crespo"
+  - "Marianne J. Cronj\xE9"
+  - Ana Maria Cuervo
+  - Joseph J. Cullen
+  - Mark J. Czaja
+  - Marcello D'Amelio
+  - Arlette Darfeuille-Michaud
+  - Lester M. Davids
+  - Faith E. Davies
+  - Massimo De Felici
+  - John F. de Groot
+  - Cornelis A.M. de Haan
+  - Luisa De Martino
+  - Angelo De Milito
+  - Vincenzo De Tata
+  - Jayanta Debnath
+  - Alexei Degterev
+  - Benjamin Dehay
+  - Lea M.D. Delbridge
+  - Francesca Demarchi
+  - Yi Zhen Deng
+  - "J\xF6rn Dengjel"
+  - Paul Dent
+  - Donna Denton
+  - Vojo Deretic
+  - Shyamal D. Desai
+  - Rodney J. Devenish
+  - Mario Di Gioacchino
+  - Gilbert Di Paolo
+  - Chiara Di Pietro
+  - "Guillermo D\xEDaz-Araya"
+  - "In\xE9s D\xEDaz-Laviada"
+  - Maria T. Diaz-Meco
+  - Javier Diaz-Nido
+  - Ivan Dikic
+  - Savithramma P. Dinesh-Kumar
+  - Wen-Xing Ding
+  - Clark W. Distelhorst
+  - Abhinav Diwan
+  - Mojgan Djavaheri-Mergny
+  - Svetlana Dokudovskaya
+  - Zheng Dong
+  - Frank C. Dorsey
+  - Victor Dosenko
+  - James J. Dowling
+  - Stephen Doxsey
+  - "Marl\xE8ne Dreux"
+  - Mark E. Drew
+  - Qiuhong Duan
+  - Michel A. Duchosal
+  - Karen E. Duff
+  - Isabelle Dugail
+  - Madeleine Durbeej
+  - Michael Duszenko
+  - Charles L. Edelstein
+  - Aimee L. Edinger
+  - Gustavo Egea
+  - Ludwig Eichinger
+  - N. Tony Eissa
+  - Suhendan Ekmekcioglu
+  - Wafik S. El-Deiry
+  - Zvulun Elazar
+  - Mohamed Elgendy
+  - Lisa M. Ellerby
+  - Kai Er Eng
+  - Anna-Mart Engelbrecht
+  - Simone Engelender
+  - Jekaterina Erenpreisa
+  - Ricardo Escalante
+  - Audrey Esclatine
+  - Eeva-Liisa Eskelinen
+  - Lucile Espert
+  - Virginia Espina
+  - Huizhou Fan
+  - Jia Fan
+  - Qi-Wen Fan
+  - Zhen Fan
+  - Shengyun Fang
+  - Yongqi Fang
+  - Manolis Fanto
+  - Alessandro Fanzani
+  - Thomas Farkas
+  - Jean-Claude Farre
+  - Mathias Faure
+  - Marcus Fechheimer
+  - Carl G. Feng
+  - Jian Feng
+  - Qili Feng
+  - Youji Feng
+  - "L\xE1szl\xF3 F\xE9s\xFCs"
+  - Ralph Feuer
+  - Maria E. Figueiredo-Pereira
+  - Gian Maria Fimia
+  - Diane C. Fingar
+  - Steven Finkbeiner
+  - Toren Finkel
+  - Kim D. Finley
+  - Filomena Fiorito
+  - Edward A. Fisher
+  - Paul B. Fisher
+  - Marc Flajolet
+  - Maria L. Florez-McClure
+  - Salvatore Florio
+  - Edward A. Fon
+  - Francesco Fornai
+  - Franco Fortunato
+  - Rati Fotedar
+  - Daniel H. Fowler
+  - Howard S. Fox
+  - Rodrigo Franco
+  - Lisa B. Frankel
+  - Marc Fransen
+  - "Jos\xE9 M. Fuentes"
+  - Juan Fueyo
+  - Jun Fujii
+  - Kozo Fujisaki
+  - Eriko Fujita
+  - Mitsunori Fukuda
+  - Ruth H. Furukawa
+  - Matthias Gaestel
+  - Philippe Gailly
+  - Malgorzata Gajewska
+  - Brigitte Galliot
+  - Vincent Galy
+  - Subramaniam Ganesh
+  - Barry Ganetzky
+  - Ian G. Ganley
+  - Fen-Biao Gao
+  - George F. Gao
+  - Jinming Gao
+  - Lorena Garcia
+  - Guillermo Garcia-Manero
+  - Mikel Garcia-Marcos
+  - Marjan Garmyn
+  - Andrei L. Gartel
+  - Evelina Gatti
+  - Mathias Gautel
+  - Thomas R. Gawriluk
+  - Matthew E. Gegg
+  - Jiefei Geng
+  - Marc Germain
+  - Jason E. Gestwicki
+  - David A. Gewirtz
+  - Saeid Ghavami
+  - Pradipta Ghosh
+  - Anna M. Giammarioli
+  - Alexandra N. Giatromanolaki
+  - Spencer B. Gibson
+  - Robert W. Gilkerson
+  - Michael L. Ginger
+  - Henry N. Ginsberg
+  - Jakub Golab
+  - Michael S. Goligorsky
+  - Pierre Golstein
+  - Candelaria Gomez-Manzano
+  - Ebru Goncu
+  - "C\xE9line Gongora"
+  - Claudio D. Gonzalez
+  - Ramon Gonzalez
+  - "Cristina Gonz\xE1lez-Est\xE9vez"
+  - "Rosa Ana Gonz\xE1lez-Polo"
+  - Elena Gonzalez-Rey
+  - Nikolai V. Gorbunov
+  - Sharon Gorski
+  - Sandro Goruppi
+  - Roberta A. Gottlieb
+  - Devrim Gozuacik
+  - Giovanna Elvira Granato
+  - Gary D. Grant
+  - Kim N. Green
+  - Ales Gregorc
+  - "Fr\xE9d\xE9ric Gros"
+  - Charles Grose
+  - Thomas W. Grunt
+  - Philippe Gual
+  - Jun-Lin Guan
+  - Kun-Liang Guan
+  - Sylvie M. Guichard
+  - Anna S. Gukovskaya
+  - Ilya Gukovsky
+  - Jan Gunst
+  - "\xC5sa B. Gustafsson"
+  - Andrew J. Halayko
+  - Amber N. Hale
+  - Sandra K. Halonen
+  - Maho Hamasaki
+  - Feng Han
+  - Ting Han
+  - Michael K. Hancock
+  - Malene Hansen
+  - Hisashi Harada
+  - Masaru Harada
+  - Stefan E. Hardt
+  - J. Wade Harper
+  - Adrian L. Harris
+  - James Harris
+  - Steven D. Harris
+  - Makoto Hashimoto
+  - Jeffrey A. Haspel
+  - Shin-ichiro Hayashi
+  - Lori A. Hazelhurst
+  - Congcong He
+  - You-Wen He
+  - "Marie-Jos\xE9e H\xE9bert"
+  - Kim A. Heidenreich
+  - Miep H. Helfrich
+  - Gudmundur V. Helgason
+  - Elizabeth P. Henske
+  - Brian Herman
+  - Paul K. Herman
+  - Claudio Hetz
+  - Sabine Hilfiker
+  - Joseph A. Hill
+  - Lynne J. Hocking
+  - Paul Hofman
+  - Thomas G. Hofmann
+  - "J\xF6rg H\xF6hfeld"
+  - Tessa L. Holyoake
+  - Ming-Huang Hong
+  - David A. Hood
+  - "G\xF6khan S. Hotamisligil"
+  - Ewout J. Houwerzijl
+  - "Maria H\xF8yer-Hansen"
+  - Bingren Hu
+  - Chien-an A. Hu
+  - Hong-Ming Hu
+  - Ya Hua
+  - Canhua Huang
+  - Ju Huang
+  - Shengbing Huang
+  - Wei-Pang Huang
+  - Tobias B. Huber
+  - Won-Ki Huh
+  - Tai-Ho Hung
+  - Ted R. Hupp
+  - Gang Min Hur
+  - James B. Hurley
+  - Sabah N.A. Hussain
+  - Patrick J. Hussey
+  - Jung Jin Hwang
+  - Seungmin Hwang
+  - Atsuhiro Ichihara
+  - Shirin Ilkhanizadeh
+  - Ken Inoki
+  - Takeshi Into
+  - Valentina Iovane
+  - Juan L. Iovanna
+  - Nancy Y. Ip
+  - Yoshitaka Isaka
+  - Hiroyuki Ishida
+  - Ciro Isidoro
+  - Ken-ichi Isobe
+  - Akiko Iwasaki
+  - Marta Izquierdo
+  - Yotaro Izumi
+  - Panu M. Jaakkola
+  - "Marja J\xE4\xE4ttel\xE4"
+  - George R. Jackson
+  - William T. Jackson
+  - Bassam Janji
+  - Marina Jendrach
+  - Ju-Hong Jeon
+  - Eui-Bae Jeung
+  - Hong Jiang
+  - Hongchi Jiang
+  - Jean X. Jiang
+  - Ming Jiang
+  - Qing Jiang
+  - Xuejun Jiang
+  - Xuejun Jiang
+  - "Alberto Jim\xE9nez"
+  - Meiyan Jin
+  - Shengkan V. Jin
+  - Cheol O. Joe
+  - Terje Johansen
+  - Daniel E. Johnson
+  - Gail V.W. Johnson
+  - Nicola L. Jones
+  - Bertrand Joseph
+  - Suresh K. Joseph
+  - Annie M. Joubert
+  - "G\xE1bor Juh\xE1sz"
+  - Lucienne Juillerat-Jeanneret
+  - Chang Hwa Jung
+  - Yong-Keun Jung
+  - Kai Kaarniranta
+  - Allen Kaasik
+  - Tomohiro Kabuta
+  - Motoni Kadowaki
+  - "Katarina K\xE5gedal"
+  - Yoshiaki Kamada
+  - Vitaliy O. Kaminskyy
+  - Harm H. Kampinga
+  - Hiromitsu Kanamori
+  - Chanhee Kang
+  - Khong Bee Kang
+  - Kwang Il Kang
+  - Rui Kang
+  - Yoon-A Kang
+  - Tomotake Kanki
+  - Thirumala-Devi Kanneganti
+  - Haruo Kanno
+  - Anumantha G. Kanthasamy
+  - Arthi Kanthasamy
+  - Vassiliki Karantza
+  - Gur P. Kaushal
+  - Susmita Kaushik
+  - Yoshinori Kawazoe
+  - Po-Yuan Ke
+  - John H. Kehrl
+  - Ameeta Kelekar
+  - Claus Kerkhoff
+  - David H. Kessel
+  - Hany Khalil
+  - Jan A.K.W. Kiel
+  - Amy A. Kiger
+  - Akio Kihara
+  - Deok Ryong Kim
+  - Do-Hyung Kim
+  - Dong-Hou Kim
+  - Eun-Kyoung Kim
+  - Hyung-Ryong Kim
+  - Jae-Sung Kim
+  - Jeong Hun Kim
+  - Jin Cheon Kim
+  - John K. Kim
+  - Peter K. Kim
+  - Seong Who Kim
+  - Yong-Sun Kim
+  - Yonghyun Kim
+  - Adi Kimchi
+  - Alec C. Kimmelman
+  - Jason S. King
+  - Timothy J. Kinsella
+  - Vladimir Kirkin
+  - Lorrie A. Kirshenbaum
+  - Katsuhiko Kitamoto
+  - Kaio Kitazato
+  - Ludger Klein
+  - Walter T. Klimecki
+  - Jochen Klucken
+  - Erwin Knecht
+  - Ben C.B. Ko
+  - Jan C. Koch
+  - Hiroshi Koga
+  - Jae-Young Koh
+  - Young Ho Koh
+  - Masato Koike
+  - Masaaki Komatsu
+  - Eiki Kominami
+  - Hee Jeong Kong
+  - Wei-Jia Kong
+  - Viktor I. Korolchuk
+  - Yaichiro Kotake
+  - Michael I. Koukourakis
+  - Juan B. Kouri Flores
+  - "Attila L. Kov\xE1cs"
+  - Claudine Kraft
+  - Dimitri Krainc
+  - "Helmut Kr\xE4mer"
+  - Carole Kretz-Remy
+  - Anna M. Krichevsky
+  - Guido Kroemer
+  - "Rejko Kr\xFCger"
+  - Oleg Krut
+  - Nicholas T. Ktistakis
+  - Chia-Yi Kuan
+  - Roza Kucharczyk
+  - Ashok Kumar
+  - Raj Kumar
+  - Sharad Kumar
+  - Mondira Kundu
+  - Hsing-Jien Kung
+  - Tino Kurz
+  - Ho Jeong Kwon
+  - Albert R. La Spada
+  - Frank Lafont
+  - Trond Lamark
+  - Jacques Landry
+  - Jon D. Lane
+  - Pierre Lapaquette
+  - Jocelyn F. Laporte
+  - "Lajos L\xE1szl\xF3"
+  - Sergio Lavandero
+  - "Jos\xE9e N. Lavoie"
+  - Robert Layfield
+  - Pedro A. Lazo
+  - Weidong Le
+  - Laurent Le Cam
+  - Daniel J. Ledbetter
+  - Alvin J.X. Lee
+  - Byung-Wan Lee
+  - Gyun Min Lee
+  - Jongdae Lee
+  - Ju-hyun lee
+  - Michael Lee
+  - Myung-Shik Lee
+  - Sug Hyung Lee
+  - Christiaan Leeuwenburgh
+  - Patrick Legembre
+  - Renaud Legouis
+  - Michael Lehmann
+  - Huan-Yao Lei
+  - Qun-Ying Lei
+  - David A. Leib
+  - "Jos\xE9 Leiro"
+  - John J. Lemasters
+  - Antoinette Lemoine
+  - Maciej S. Lesniak
+  - Dina Lev
+  - Victor V. Levenson
+  - Beth Levine
+  - Efrat Levy
+  - Faqiang Li
+  - Jun-Lin Li
+  - Lian Li
+  - Sheng Li
+  - Weijie Li
+  - Xue-Jun Li
+  - Yan-Bo Li
+  - Yi-Ping Li
+  - Chengyu Liang
+  - Qiangrong Liang
+  - Yung-Feng Liao
+  - Pawel P. Liberski
+  - Andrew Lieberman
+  - Hyunjung J. Lim
+  - Kah-Leong Lim
+  - Kyu Lim
+  - Chiou-Feng Lin
+  - Fu-Cheng Lin
+  - Jian Lin
+  - Jiandie D. Lin
+  - Kui Lin
+  - Wan-Wan Lin
+  - Weei-Chin Lin
+  - Yi-Ling Lin
+  - Rafael Linden
+  - Paul Lingor
+  - Jennifer Lippincott-Schwartz
+  - Michael P. Lisanti
+  - Paloma B. Liton
+  - Bo Liu
+  - Chun-Feng Liu
+  - Kaiyu Liu
+  - Leyuan Liu
+  - Qiong A. Liu
+  - Wei Liu
+  - Young-Chau Liu
+  - Yule Liu
+  - Richard A. Lockshin
+  - Chun-Nam Lok
+  - Sagar Lonial
+  - Benjamin Loos
+  - Gabriel Lopez-Berestein
+  - "Carlos L\xF3pez-Ot\xEDn"
+  - Laura Lossi
+  - Michael T. Lotze
+  - Peter Low
+  - Binfeng Lu
+  - Bingwei Lu
+  - Bo Lu
+  - Zhen Lu
+  - "Fr\xE9deric Luciano"
+  - Nicholas W. Lukacs
+  - Anders H. Lund
+  - Melinda A. Lynch-Day
+  - Yong Ma
+  - Fernando Macian
+  - Jeff P. MacKeigan
+  - Kay F. Macleod
+  - Frank Madeo
+  - Luigi Maiuri
+  - Maria Chiara Maiuri
+  - Davide Malagoli
+  - May Christine V. Malicdan
+  - Walter Malorni
+  - Na Man
+  - Eva-Maria Mandelkow
+  - Stephen Manon
+  - Irena Manov
+  - Kai Mao
+  - Xiang Mao
+  - Zixu Mao
+  - Philippe Marambaud
+  - Daniela Marazziti
+  - Yves L. Marcel
+  - Katie Marchbank
+  - Piero Marchetti
+  - Stefan J. Marciniak
+  - Mateus Marcondes
+  - Mohsen Mardi
+  - Gabriella Marfe
+  - "Guillermo Mari\xF1o"
+  - Maria Markaki
+  - Mark R. Marten
+  - Seamus J. Martin
+  - Camille Martinand-Mari
+  - Wim Martinet
+  - Marta Martinez-Vicente
+  - Matilde Masini
+  - Paola Matarrese
+  - Saburo Matsuo
+  - Raffaele Matteoni
+  - Andreas Mayer
+  - Nathalie M. Mazure
+  - David J. McConkey
+  - Melanie J. McConnell
+  - Catherine McDermott
+  - Christine McDonald
+  - Gerald M. McInerney
+  - Sharon L. McKenna
+  - BethAnn McLaughlin
+  - Pamela J. McLean
+  - Christopher R. McMaster
+  - G. Angus McQuibban
+  - Alfred J. Meijer
+  - Miriam H. Meisler
+  - "Alicia Mel\xE9ndez"
+  - Thomas J. Melia
+  - Gerry Melino
+  - Maria A. Mena
+  - Javier A. Menendez
+  - Rubem F. S. Menna-Barreto
+  - Manoj B. Menon
+  - Fiona M. Menzies
+  - Carol A. Mercer
+  - Adalberto Merighi
+  - Diane E. Merry
+  - Stefania Meschini
+  - Christian G. Meyer
+  - Thomas F. Meyer
+  - Chao-Yu Miao
+  - Jun-Ying Miao
+  - Paul A.M. Michels
+  - Carine Michiels
+  - Dalibor Mijaljica
+  - Ana Milojkovic
+  - Saverio Minucci
+  - Clelia Miracco
+  - Cindy K. Miranti
+  - Ioannis Mitroulis
+  - Keisuke Miyazawa
+  - Noboru Mizushima
+  - Baharia Mograbi
+  - Simin Mohseni
+  - Xavier Molero
+  - Bertrand Mollereau
+  - Faustino Mollinedo
+  - Takashi Momoi
+  - Iryna Monastyrska
+  - Martha M. Monick
+  - Mervyn J. Monteiro
+  - Michael N. Moore
+  - Rodrigo Mora
+  - Kevin Moreau
+  - Paula I. Moreira
+  - Yuji Moriyasu
+  - Jorge Moscat
+  - Serge Mostowy
+  - Jeremy C. Mottram
+  - Tomasz Motyl
+  - Charbel E.-H. Moussa
+  - "Sylke M\xFCller"
+  - Sylviane Muller
+  - "Karl M\xFCnger"
+  - "Christian M\xFCnz"
+  - Leon O. Murphy
+  - Maureen E. Murphy
+  - "Antonio Musar\xF2"
+  - Indira Mysorekar
+  - Eiichiro Nagata
+  - Kazuhiro Nagata
+  - Aimable Nahimana
+  - Usha Nair
+  - Toshiyuki Nakagawa
+  - Kiichi Nakahira
+  - Hiroyasu Nakano
+  - Hitoshi Nakatogawa
+  - Meera Nanjundan
+  - Naweed I. Naqvi
+  - Derek P. Narendra
+  - Masashi Narita
+  - Miguel Navarro
+  - Steffan T. Nawrocki
+  - Taras Y. Nazarko
+  - Andriy Nemchenko
+  - Mihai G. Netea
+  - Thomas P. Neufeld
+  - Paul A. Ney
+  - Ioannis P. Nezis
+  - Huu Phuc Nguyen
+  - Daotai Nie
+  - Ichizo Nishino
+  - Corey Nislow
+  - Ralph A. Nixon
+  - Takeshi Noda
+  - Angelika A. Noegel
+  - Anna Nogalska
+  - Satoru Noguchi
+  - Lucia Notterpek
+  - Ivana Novak
+  - Tomoyoshi Nozaki
+  - Nobuyuki Nukina
+  - "Thorsten N\xFCrnberger"
+  - Beat Nyfeler
+  - Keisuke Obara
+  - Terry D. Oberley
+  - Salvatore Oddo
+  - Michinaga Ogawa
+  - Toya Ohashi
+  - Koji Okamoto
+  - Nancy L. Oleinick
+  - F. Javier Oliver
+  - Laura J. Olsen
+  - Stefan Olsson
+  - Onya Opota
+  - Timothy F. Osborne
+  - Gary K. Ostrander
+  - Kinya Otsu
+  - Jing-hsiung James Ou
+  - Mireille Ouimet
+  - Michael Overholtzer
+  - Bulent Ozpolat
+  - Paolo Paganetti
+  - Ugo Pagnini
+  - Nicolas Pallet
+  - Glen E. Palmer
+  - Camilla Palumbo
+  - Tianhong Pan
+  - Theocharis Panaretakis
+  - Udai Bhan Pandey
+  - Zuzana Papackova
+  - Issidora Papassideri
+  - Irmgard Paris
+  - Junsoo Park
+  - Ohkmae K. Park
+  - Jan B. Parys
+  - Katherine R. Parzych
+  - Susann Patschan
+  - Cam Patterson
+  - Sophie Pattingre
+  - John M. Pawelek
+  - Jianxin Peng
+  - David H. Perlmutter
+  - Ida Perrotta
+  - George Perry
+  - Shazib Pervaiz
+  - Matthias Peter
+  - Godefridus J. Peters
+  - Morten Petersen
+  - Goran Petrovski
+  - James M. Phang
+  - Mauro Piacentini
+  - Philippe Pierre
+  - "Val\xE9rie Pierrefite-Carle"
+  - "G\xE9rard Pierron"
+  - Ronit Pinkas-Kramarski
+  - Antonio Piras
+  - Natik Piri
+  - Leonidas C. Platanias
+  - "Stefanie P\xF6ggeler"
+  - Marc Poirot
+  - Angelo Poletti
+  - "Christian Po\xFCs"
+  - Mercedes Pozuelo-Rubio
+  - "Mette Pr\xE6torius-Ibba"
+  - Anil Prasad
+  - Mark Prescott
+  - Muriel Priault
+  - Nathalie Produit-Zengaffinen
+  - Ann Progulske-Fox
+  - Tassula Proikas-Cezanne
+  - Serge Przedborski
+  - Karin Przyklenk
+  - Rosa Puertollano
+  - Julien Puyal
+  - Shu-Bing Qian
+  - Liang Qin
+  - Zheng-Hong Qin
+  - Susan E. Quaggin
+  - Nina Raben
+  - Hannah Rabinowich
+  - Simon W. Rabkin
+  - Irfan Rahman
+  - Abdelhaq Rami
+  - Georg Ramm
+  - Glenn Randall
+  - Felix Randow
+  - V. Ashutosh Rao
+  - Jeffrey C. Rathmell
+  - Brinda Ravikumar
+  - Swapan K. Ray
+  - Bruce H. Reed
+  - John C. Reed
+  - Fulvio Reggiori
+  - "Anne R\xE9gnier-Vigouroux"
+  - Andreas S. Reichert
+  - John J. Reiners, Jr.
+  - Russel J. Reiter
+  - Jun Ren
+  - "Jos\xE9 L. Revuelta"
+  - Christopher J. Rhodes
+  - Konstantinos Ritis
+  - Elizete Rizzo
+  - Jeffrey Robbins
+  - Michel Roberge
+  - Hernan Roca
+  - Maria C. Roccheri
+  - Stephane Rocchi
+  - H. Peter Rodemann
+  - "Santiago Rodr\xEDguez de C\xF3rdoba"
+  - "B\xE4rbel Rohrer"
+  - Igor B. Roninson
+  - Kirill Rosen
+  - Magdalena M. Rost-Roszkowska
+  - Mustapha Rouis
+  - Kasper M.A. Rouschop
+  - Francesca Rovetta
+  - Brian P. Rubin
+  - David C. Rubinsztein
+  - Klaus Ruckdeschel
+  - Edmund B. Rucker
+  - Assaf Rudich
+  - Emil Rudolf
+  - Nelson Ruiz-Opazo
+  - Rossella Russo
+  - Tor Erik Rusten
+  - Kevin M. Ryan
+  - Stefan W. Ryter
+  - David M. Sabatini
+  - Junichi Sadoshima
+  - Tapas Saha
+  - Tatsuya Saitoh
+  - Hiroshi Sakagami
+  - Yasuyoshi Sakai
+  - Ghasem Hoseini Salekdeh
+  - Paolo Salomoni
+  - Paul M. Salvaterra
+  - Guy Salvesen
+  - Rosa Salvioli
+  - Anthony M.J. Sanchez
+  - "Jos\xE9 A. S\xE1nchez-Alc\xE1zar"
+  - "Ricardo S\xE1nchez-Prieto"
+  - Marco Sandri
+  - Uma Sankar
+  - Poonam Sansanwal
+  - Laura Santambrogio
+  - Shweta Saran
+  - Sovan Sarkar
+  - Minnie Sarwal
+  - Chihiro Sasakawa
+  - Ausra Sasnauskiene
+  - "Mikl\xF3s Sass"
+  - Ken Sato
+  - Miyuki Sato
+  - Anthony H.V. Schapira
+  - Michael Scharl
+  - "Hermann M. Sch\xE4tzl"
+  - Wiep Scheper
+  - Stefano Schiaffino
+  - Claudio Schneider
+  - Marion E. Schneider
+  - Regine Schneider-Stock
+  - Patricia V. Schoenlein
+  - Daniel F. Schorderet
+  - "Christoph Sch\xFCller"
+  - Gary K. Schwartz
+  - Luca Scorrano
+  - Linda Sealy
+  - Per O. Seglen
+  - Juan Segura-Aguilar
+  - Iban Seiliez
+  - Oleksandr Seleverstov
+  - Christian Sell
+  - Jong Bok Seo
+  - Duska Separovic
+  - Vijayasaradhi Setaluri
+  - Takao Setoguchi
+  - Carmine Settembre
+  - John J. Shacka
+  - Mala Shanmugam
+  - Irving M. Shapiro
+  - Eitan Shaulian
+  - Reuben J. Shaw
+  - James H. Shelhamer
+  - Han-Ming Shen
+  - Wei-Chiang Shen
+  - Zu-Hang Sheng
+  - Yang Shi
+  - Kenichi Shibuya
+  - Yoshihiro Shidoji
+  - Jeng-Jer Shieh
+  - Chwen-Ming Shih
+  - Yohta Shimada
+  - Shigeomi Shimizu
+  - Takahiro Shintani
+  - Orian S. Shirihai
+  - Gordon C. Shore
+  - Andriy A. Sibirny
+  - Stan B. Sidhu
+  - Beata Sikorska
+  - Elaine C.M. Silva-Zacarin
+  - Alison Simmons
+  - Anna Katharina Simon
+  - Hans-Uwe Simon
+  - Cristiano Simone
+  - Anne Simonsen
+  - David A. Sinclair
+  - Rajat Singh
+  - Debasish Sinha
+  - Frank A. Sinicrope
+  - Agnieszka Sirko
+  - Parco M. Siu
+  - Efthimios Sivridis
+  - Vojtech Skop
+  - Vladimir P. Skulachev
+  - Ruth S. Slack
+  - Soraya S. Smaili
+  - Duncan R. Smith
+  - Maria S. Soengas
+  - Thierry Soldati
+  - Xueqin Song
+  - Anil K. Sood
+  - Tuck Wah Soong
+  - Federica Sotgia
+  - Stephen A. Spector
+  - Claudia D. Spies
+  - Wolfdieter Springer
+  - Srinivasa M. Srinivasula
+  - Leonidas Stefanis
+  - Joan S. Steffan
+  - Ruediger Stendel
+  - Harald Stenmark
+  - Anastasis Stephanou
+  - Stephan T. Stern
+  - Cinthya Sternberg
+  - "Bj\xF6rn Stork"
+  - "Peter Str\xE5lfors"
+  - Carlos S. Subauste
+  - Xinbing Sui
+  - David Sulzer
+  - Jiaren Sun
+  - Shi-Yong Sun
+  - Zhi-Jun Sun
+  - Joseph J.Y. Sung
+  - Kuninori Suzuki
+  - Toshihiko Suzuki
+  - Michele S. Swanson
+  - Charles Swanton
+  - Sean T. Sweeney
+  - Lai-King Sy
+  - "Gy\xF6rgy Szabadkai"
+  - Ira Tabas
+  - Heinrich Taegtmeyer
+  - Marco Tafani
+  - "Krisztina Tak\xE1cs-Vellai"
+  - Yoshitaka Takano
+  - Kaoru Takegawa
+  - Genzou Takemura
+  - Fumihiko Takeshita
+  - Nicholas J. Talbot
+  - Kevin S.W. Tan
+  - Keiji Tanaka
+  - Kozo Tanaka
+  - Daolin Tang
+  - Dingzhong Tang
+  - Isei Tanida
+  - Bakhos A. Tannous
+  - Nektarios Tavernarakis
+  - Graham S. Taylor
+  - Gregory A. Taylor
+  - J. Paul Taylor
+  - Lance S. Terada
+  - Alexei Terman
+  - Gianluca Tettamanti
+  - Karin Thevissen
+  - Craig B. Thompson
+  - Andrew Thorburn
+  - Michael Thumm
+  - FengFeng Tian
+  - Yuan Tian
+  - Glauco Tocchini-Valentini
+  - Aviva M. Tolkovsky
+  - Yasuhiko Tomino
+  - "Lars T\xF6nges"
+  - Sharon A. Tooze
+  - Cathy Tournier
+  - John Tower
+  - Roberto Towns
+  - Vladimir Trajkovic
+  - Leonardo H. Travassos
+  - Ting-Fen Tsai
+  - Mario P. Tschan
+  - Takeshi Tsubata
+  - Allan Tsung
+  - Boris Turk
+  - Lorianne S. Turner
+  - Suresh C. Tyagi
+  - Yasuo Uchiyama
+  - Takashi Ueno
+  - Midori Umekawa
+  - Rika Umemiya-Shirafuji
+  - Vivek K. Unni
+  - Maria I. Vaccaro
+  - Enza Maria Valente
+  - Greet Van den Berghe
+  - Ida J. van der Klei
+  - Wouter G. van Doorn
+  - Linda F. van Dyk
+  - Marjolein van Egmond
+  - Leo A. van Grunsven
+  - Peter Vandenabeele
+  - Wim P. Vandenberghe
+  - Ilse Vanhorebeek
+  - Eva C. Vaquero
+  - Guillermo Velasco
+  - Tibor Vellai
+  - "Jos\xE9 Miguel Vicencio"
+  - Richard D. Vierstra
+  - Miquel Vila
+  - "C\xE9cile Vindis"
+  - Giampietro Viola
+  - Maria Teresa Viscomi
+  - Olga V. Voitsekhovskaja
+  - Clarissa von Haefen
+  - Marcela Votruba
+  - Keiji Wada
+  - Richard Wade-Martins
+  - Cheryl L. Walker
+  - Craig M. Walsh
+  - Jochen Walter
+  - Xiang-Bo Wan
+  - Aimin Wang
+  - Chenguang Wang
+  - Dawei Wang
+  - Fan Wang
+  - Fen Wang
+  - Guanghui Wang
+  - Haichao Wang
+  - Hong-Gang Wang
+  - Horng-Dar Wang
+  - Jin Wang
+  - Ke Wang
+  - Mei Wang
+  - Richard C. Wang
+  - Xinglong Wang
+  - Xiujie J. Wang
+  - Ying-Jan Wang
+  - Yipeng Wang
+  - Zhen-Bo Wang
+  - Zhigang Charles Wang
+  - Zhinong Wang
+  - Derick G. Wansink
+  - Diane M. Ward
+  - Hirotaka Watada
+  - Sarah L. Waters
+  - Paul Webster
+  - Lixin Wei
+  - Conrad C. Weihl
+  - William A. Weiss
+  - Scott M. Welford
+  - Long-Ping Wen
+  - Caroline A. Whitehouse
+  - J. Lindsay Whitton
+  - Alexander J. Whitworth
+  - Tom Wileman
+  - John W. Wiley
+  - Simon Wilkinson
+  - Dieter Willbold
+  - Roger L. Williams
+  - Peter R. Williamson
+  - Bradly G. Wouters
+  - Chenghan Wu
+  - Dao-Cheng Wu
+  - William K.K. Wu
+  - Andreas Wyttenbach
+  - Ramnik J. Xavier
+  - Zhijun Xi
+  - Pu Xia
+  - Gengfu Xiao
+  - Zhiping Xie
+  - Zhonglin Xie
+  - Da-zhi Xu
+  - Jianzhen Xu
+  - Liang Xu
+  - Xiaolei Xu
+  - Ai Yamamoto
+  - Akitsugu Yamamoto
+  - Shunhei Yamashina
+  - Michiaki Yamashita
+  - Xianghua Yan
+  - Mitsuhiro Yanagida
+  - Dun-Sheng Yang
+  - Elizabeth Yang
+  - Jin-Ming Yang
+  - Shi Yu Yang
+  - Wannian Yang
+  - Wei Yuan Yang
+  - Zhifen Yang
+  - Meng-Chao Yao
+  - Tso-Pang Yao
+  - Behzad Yeganeh
+  - Wei-Lien Yen
+  - Jia-Jing Yin
+  - Xiao-Ming Yin
+  - Ook-Joon Yoo
+  - Gyesoon Yoon
+  - Seung-Yong Yoon
+  - Tomohiro Yorimitsu
+  - Yuko Yoshikawa
+  - Tamotsu Yoshimori
+  - Kohki Yoshimoto
+  - Ho Jin You
+  - Richard J. Youle
+  - Anas Younes
+  - Li Yu
+  - Long Yu
+  - Seong-Woon Yu
+  - Wai Haung Yu
+  - Zhi-Min Yuan
+  - Zhenyu Yue
+  - Cheol-Heui Yun
+  - Michisuke Yuzaki
+  - Olga Zabirnyk
+  - Elaine Silva-Zacarin
+  - David Zacks
+  - Eldad Zacksenhaus
+  - Nadia Zaffaroni
+  - Zahra Zakeri
+  - Herbert J. Zeh, III
+  - Scott O. Zeitlin
+  - Hong Zhang
+  - Hui-Ling Zhang
+  - Jianhua Zhang
+  - Jing-Pu Zhang
+  - Lin Zhang
+  - Long Zhang
+  - Ming-Yong Zhang
+  - Xu Dong Zhang
+  - Mantong Zhao
+  - Yi-Fang Zhao
+  - Ying Zhao
+  - Zhizhuang J. Zhao
+  - Xiaoxiang Zheng
+  - Boris Zhivotovsky
+  - Qing Zhong
+  - Cong-Zhao Zhou
+  - Changlian Zhu
+  - Wei-Guo Zhu
+  - Xiao-Feng Zhu
+  - Xiongwei Zhu
+  - Yuangang Zhu
+  - Teresa Zoladek
+  - Wei-Xing Zong
+  - Antonio Zorzano
+  - "J\xFCrgen Zschocke"
+  - Brian Zuckerbraun
+  publisher: Autophagy
+  date: '2012-04-01'
+  link: https://doi.org/f2z3xd
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1586/era.12.10
+  title: Mechanisms and novel approaches in overriding tyrosine kinase inhibitor resistance
+    in chronic myeloid leukemia
+  authors:
+  - Maria Karvela
+  - G Vignir Helgason
+  - Tessa L Holyoake
+  publisher: Expert Review of Anticancer Therapy
+  date: '2012-03-01'
+  link: https://doi.org/g9wgf2
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2010-12-326843
+  title: Chronic myeloid leukemia stem cells are not dependent on Bcr-Abl kinase activity
+    for their survival
+  authors:
+  - Ashley Hamilton
+  - G. Vignir Helgason
+  - Mirle Schemionek
+  - Bin Zhang
+  - Svetlana Myssina
+  - Elaine K. Allan
+  - Franck E. Nicolini
+  - "Carsten M\xFCller-Tidow"
+  - Ravi Bhatia
+  - Valerie G. Brunton
+  - Steffen Koschmieder
+  - Tessa L. Holyoake
+  publisher: Blood
+  date: '2012-02-09'
+  link: https://doi.org/fzcn2c
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1586/ehm.11.34
+  title: 'Hydroxychloroquine for chronic myeloid leukemia: complete cure on the horizon?'
+  authors:
+  - Arunima Mukhopadhyay
+  - Gudmundur V Helgason
+  - Maria Karvela
+  - Tessa L Holyoake
+  publisher: Expert Review of Hematology
+  date: '2011-08-01'
+  link: https://doi.org/btnqwr
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2011-01-330621
+  title: 'Kill one bird with two stones: potential efficacy of BCR-ABL and autophagy
+    inhibition in CML'
+  authors:
+  - G. Vignir Helgason
+  - Maria Karvela
+  - Tessa L. Holyoake
+  publisher: Blood
+  date: '2011-08-25'
+  link: https://doi.org/bwhtxj
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/leu.2011.67
+  title: The MEK inhibitor PD184352 enhances BMS-214662-induced apoptosis in CD34+
+    CML stem/progenitor cells
+  authors:
+  - F Pellicano
+  - "P \u0160imara"
+  - A Sinclair
+  - G V Helgason
+  - M Copland
+  - S Grant
+  - T L Holyoake
+  publisher: Leukemia
+  date: '2011-04-12'
+  link: https://doi.org/bzmdhn
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.CAN-09-2876
+  title: Oncogene-Induced Sensitization to Chemotherapy-Induced Death Requires Induction
+    as well as Deregulation of E2F1
+  authors:
+  - G. Vignir Helgason
+  - Jim O'Prey
+  - Kevin M. Ryan
+  publisher: Cancer Research
+  date: '2010-05-12'
+  link: https://doi.org/c68drj
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s11899-010-0043-0
+  title: Targeting Chronic Myeloid Leukemia Stem Cells
+  authors:
+  - G. Vignir Helgason
+  - Graham A. R. Young
+  - Tessa L. Holyoake
+  publisher: Current Hematologic Malignancy Reports
+  date: '2010-02-24'
+  link: https://doi.org/b5tvg9
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/jci35660
+  title: "Targeting autophagy potentiates tyrosine kinase inhibitor\u2013induced cell\
+    \ death in Philadelphia chromosome\u2013positive cells, including primary CML\
+    \ stem cells"
+  authors:
+  - Cristian Bellodi
+  - Maria Rosa Lidonnici
+  - Ashley Hamilton
+  - G. Vignir Helgason
+  - Angela Rachele Soliera
+  - Mattia Ronchetti
+  - Sara Galavotti
+  - Kenneth W. Young
+  - Tommaso Selmi
+  - Rinat Yacobi
+  - Richard A. Van Etten
+  - Nick Donato
+  - Ann Hunter
+  - David Dinsdale
+  - "Elena Tirr\xF2"
+  - Paolo Vigneri
+  - Pierluigi Nicotera
+  - Martin J. Dyer
+  - Tessa Holyoake
+  - Paolo Salomoni
+  - Bruno Calabretta
+  publisher: Journal of Clinical Investigation
+  date: '2009-05-01'
+  link: https://doi.org/bwcdx9
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.exphem.2008.10.013
+  title: Combined BCR-ABL inhibition with lentiviral-delivered shRNA and dasatinib
+    augments induction of apoptosis in Philadelphia-positive cells
+  authors:
+  - Svetlana Myssina
+  - G. Vignir Helgason
+  - Alan Serrels
+  - "Heather G. J\xF8rgensen"
+  - Ravi Bhatia
+  - Hardik Modi
+  - Janet W. Baird
+  - Joanne C. Mountford
+  - Ashley Hamilton
+  - Mirle Schemionek
+  - Steffen Koschmieder
+  - Valerie G. Brunton
+  - Tessa L. Holyoake
+  publisher: Experimental Hematology
+  date: '2009-02-01'
+  link: https://doi.org/cbkdg5
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: E2F1 induction following DNA damage and oncogene activation.
+  date: '2022-05-27'
+  link: http://europepmc.org/theses/ETH/495289
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- title: E2F1 induction folowing DNA-damage and oncogene activation.
+  date: '2022-05-27'
+  link: http://europepmc.org/theses/ETH/443209
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1126/scitranslmed.abd5016
+  title: "ULK1 inhibition promotes oxidative stress\u2013induced differentiation and\
+    \ sensitizes leukemic stem cells to targeted therapy"
+  authors:
+  - Angela Ianniciello
+  - Martha M. Zarou
+  - Kevin M. Rattigan
+  - Mary Scott
+  - Amy Dawson
+  - Karen Dunn
+  - Zuzana Brabcova
+  - Eric R. Kalkman
+  - Colin Nixon
+  - Alison M. Michie
+  - Mhairi Copland
+  - David Vetrie
+  - Martin Ambler
+  - Barbara Saxty
+  - G. Vignir Helgason
+  publisher: Science Translational Medicine
+  date: '2021-09-29'
+  link: https://doi.org/g9wgf3
+  orcid: 0000-0003-1616-132X
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -201,9 +4405,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -220,21 +4421,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
