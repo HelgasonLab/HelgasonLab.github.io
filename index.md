@@ -3,7 +3,7 @@
 
 # Helgason Laboratory
 
-We're a leukaemia research lab at the University of Glasgow. We focus on Bench to Bedside translational research. Our focus has been on Chronic Myeloid Leukaemia (CML), a tumour type in which Glasgow has particular clinical expertise and excising translational projects.
+We're a leukaemia research lab at the University of Glasgow. We focus on bench-to-bedside translational research. Our focus has been on Chronic Myeloid Leukaemia (CML), a tumour type in which Glasgow has particular clinical expertise and excising translational projects.
 
 {% include section.html %}
 
@@ -11,11 +11,11 @@ We're a leukaemia research lab at the University of Glasgow. We focus on Bench t
 
 {% capture text %}
 
-We are interested in related leukaemias and myeloproliferative neoplasms, with the overall aim of targeting appropriate therapy to the stem cell compartment to remove the population in which drug resistance occurs. All on-going projects relate to targeting: Leukaemia Stem Cells, Autophagy, Cancer Metabolism, Leukaemia Niche.
+We are interested in related leukaemias and myeloproliferative neoplasms, with the overall aim of targeting appropriate therapy to the stem cell compartment to remove the population in which drug resistance occurs. All ongoing projects relate to targeting: Leukaemia Stem Cells, Autophagy, Cancer Metabolism, Leukaemia Niche.
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -27,7 +27,7 @@ We are interested in related leukaemias and myeloproliferative neoplasms, with t
 {%
   include feature.html
   image="images/photo.jpg"
-  link="research"
+  link="publication"
   title="Our Research"
   text=text
 %}
@@ -38,7 +38,7 @@ We are well aware of the importance of engagement with end users and external bo
 
 {%
   include button.html
-  link="projects"
+  link="media"
   text="Browse our news"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -50,7 +50,7 @@ We are well aware of the importance of engagement with end users and external bo
 {%
   include feature.html
   image="images/photo.jpg"
-  link="projects"
+  link="media"
   title="Media coverage"
   flip=true
   style="bare"
