@@ -1,5 +1,190 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1126/scitranslmed.adi5336
+  title: Nutrient-sensitizing drug repurposing screen identifies lomerizine as a mitochondrial
+    metabolism inhibitor of chronic myeloid leukemia
+  authors:
+  - Ahmed Khalaf
+  - Lucie de Beauchamp
+  - Eric Kalkman
+  - Kevin Rattigan
+  - Ekaterini Himonas
+  - Joe Jones
+  - Daniel James
+  - Engy Shokry Abd Shokry
+  - Mary T. Scott
+  - Karen Dunn
+  - Saverio Tardito
+  - Mhairi Copland
+  - David Sumpton
+  - Emma Shanks
+  - G. Vignir Helgason
+  publisher: Science Translational Medicine
+  date: '2024-06-12'
+  link: https://doi.org/g9wkbs
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-024-46114-0
+  title: Inhibition of mitochondrial folate metabolism drives differentiation through
+    mTORC1 mediated purine sensing
+  authors:
+  - Martha M. Zarou
+  - Kevin M. Rattigan
+  - Daniele Sarnello
+  - Engy Shokry
+  - Amy Dawson
+  - Angela Ianniciello
+  - Karen Dunn
+  - Mhairi Copland
+  - David Sumpton
+  - Alexei Vazquez
+  - G. Vignir Helgason
+  publisher: Nature Communications
+  date: '2024-03-02'
+  link: https://doi.org/gtvvkn
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-024-45471-0
+  title: Leukaemia exposure alters the transcriptional profile and function of BCR::ABL1
+    negative macrophages in the bone marrow niche
+  authors:
+  - Amy Dawson
+  - Martha M. Zarou
+  - Bodhayan Prasad
+  - Joana Bittencourt-Silvestre
+  - "D\xE9sir\xE9e Zerbst"
+  - Ekaterini Himonas
+  - Ya-Ching Hsieh
+  - Isabel van Loon
+  - Giovanny Rodriguez Blanco
+  - Angela Ianniciello
+  - Zsombor Kerekes
+  - Vaidehi Krishnan
+  - Puneet Agarwal
+  - Hassan Almasoudi
+  - Laura McCluskey
+  - Lisa E. M. Hopcroft
+  - Mary T. Scott
+  - Pablo Baquero
+  - Karen Dunn
+  - David Vetrie
+  - Mhairi Copland
+  - Ravi Bhatia
+  - Seth B. Coffelt
+  - Ong Sin Tiong
+  - Helen Wheadon
+  - Sara Zanivan
+  - Kristina Kirschner
+  - G. Vignir Helgason
+  publisher: Nature Communications
+  date: '2024-02-05'
+  link: https://doi.org/g9wkbt
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-023-40222-z
+  title: Pyruvate anaplerosis is a targetable vulnerability in persistent leukaemic
+    stem cells
+  authors:
+  - Kevin M. Rattigan
+  - Zuzana Brabcova
+  - Daniele Sarnello
+  - Martha M. Zarou
+  - Kiron Roy
+  - Ryan Kwan
+  - Lucie de Beauchamp
+  - Amy Dawson
+  - Angela Ianniciello
+  - Ahmed Khalaf
+  - Eric R. Kalkman
+  - Mary T. Scott
+  - Karen Dunn
+  - David Sumpton
+  - Alison M. Michie
+  - Mhairi Copland
+  - Saverio Tardito
+  - Eyal Gottlieb
+  - G. Vignir Helgason
+  publisher: Nature Communications
+  date: '2023-08-17'
+  link: https://doi.org/g9wkbv
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.15252/embr.202256279
+  title: Arginine dependency is a therapeutically exploitable vulnerability in chronic
+    myeloid leukaemic stem cells
+  authors:
+  - Kevin M Rattigan
+  - Martha M Zarou
+  - Zuzana Brabcova
+  - Bodhayan Prasad
+  - "D\xE9sir\xE9e Zerbst"
+  - Daniele Sarnello
+  - Eric R Kalkman
+  - Angela Ianniciello
+  - Mary T Scott
+  - Karen Dunn
+  - Engy Shokry
+  - David Sumpton
+  - Mhairi Copland
+  - Saverio Tardito
+  - Johan Vande Voorde
+  - Francis Mussai
+  - Paul Cheng
+  - G Vignir Helgason
+  publisher: EMBO reports
+  date: '2023-07-25'
+  link: https://doi.org/g9wkbw
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1097/hs9.0000000000000895
+  title: 'Unraveling Heterogeneity in the Aging Hematopoietic Stem Cell Compartment:
+    An Insight From Single-cell Approaches'
+  authors:
+  - Fei Yang
+  - Craig Nourse
+  - G. Vignir Helgason
+  - Kristina Kirschner
+  publisher: HemaSphere
+  date: '2023-05-26'
+  link: https://doi.org/g9wkbx
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-023-37652-0
+  title: Mannose metabolism inhibition sensitizes acute myeloid leukaemia cells to
+    therapy by driving ferroptotic cell death
+  authors:
+  - Keith Woodley
+  - Laura S. Dillingh
+  - George Giotopoulos
+  - Pedro Madrigal
+  - Kevin M. Rattigan
+  - "C\xE9line Philippe"
+  - Vilma Dembitz
+  - Aoife M. S. Magee
+  - Ryan Asby
+  - Louie N. van de Lagemaat
+  - Christopher Mapperley
+  - Sophie C. James
+  - Jochen H. M. Prehn
+  - Konstantinos Tzelepis
+  - Kevin Rouault-Pierre
+  - George S. Vassiliou
+  - Kamil R. Kranc
+  - G. Vignir Helgason
+  - Brian J. P. Huntly
+  - Paolo Gallipoli
+  publisher: Nature Communications
+  date: '2023-04-14'
+  link: https://doi.org/gtzm2j
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1182/blood.2022018258
   title: 'Metabolism in stem cell driven leukaemia: parallels between haematopoiesis
     and immunity'
@@ -97,6 +282,88 @@
   publisher: Nature Reviews Cancer
   date: '2020-01-06'
   link: https://doi.org/ghmbv2
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41375-019-0700-9
+  title: A randomised phase II trial of hydroxychloroquine and imatinib versus imatinib
+    alone for patients with chronic myeloid leukaemia in major cytogenetic response
+    with residual disease
+  authors:
+  - G. A. Horne
+  - J. Stobo
+  - C. Kelly
+  - A. Mukhopadhyay
+  - A. L. Latif
+  - J. Dixon-Hughes
+  - L. McMahon
+  - P. Cony-Makhoul
+  - J. Byrne
+  - G. Smith
+  - S. Koschmieder
+  - "T. H. Br\xDCmmendorf"
+  - P. Schafhausen
+  - P. Gallipoli
+  - F. Thomson
+  - W. Cong
+  - R. E. Clark
+  - D. Milojkovic
+  - G. V. Helgason
+  - L. Foroni
+  - F. E. Nicolini
+  - T. L. Holyoake
+  - M. Copland
+  publisher: Leukemia
+  date: '2020-01-10'
+  link: https://doi.org/gttkqf
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jmedchem.9b01546
+  title: Utilizing Stimulated Raman Scattering Microscopy To Study Intracellular Distribution
+    of Label-Free Ponatinib in Live Cells
+  authors:
+  - Kristel Sepp
+  - Martin Lee
+  - Marie T. J. Bluntzer
+  - G. Vignir Helgason
+  - Alison N. Hulme
+  - Valerie G. Brunton
+  publisher: Journal of Medicinal Chemistry
+  date: '2019-12-12'
+  link: https://doi.org/g9wkbz
+  orcid: 0000-0003-1616-132X
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41375-019-0557-y
+  title: BCR signaling contributes to autophagy regulation in chronic lymphocytic
+    leukemia
+  authors:
+  - Lindsay D. Smith
+  - Annabel R. Minton
+  - Matthew D. Blunt
+  - Laura I. Karydis
+  - David A. Dutton
+  - Karly-Rai Rogers-Broadway
+  - Rachel Dobson
+  - Rena Liu
+  - Faith Norster
+  - Elizabeth Hogg
+  - Margaret Ashton-Key
+  - Jonathan C. Strefford
+  - Li Jia
+  - Dimitar G. Efremov
+  - G. Vignir Helgason
+  - Peter W. M. Johnson
+  - Freda K. Stevenson
+  - Francesco Forconi
+  - Mark S. Cragg
+  - David A. Tumbarello
+  - Graham Packham
+  - Andrew J. Steele
+  publisher: Leukemia
+  date: '2019-08-28'
+  link: https://doi.org/g9wkb2
   orcid: 0000-0003-1616-132X
   plugin: orcid.py
   file: orcid.yaml
