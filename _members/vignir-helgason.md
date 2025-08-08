@@ -8,6 +8,7 @@ aliases:
   - GV Helgason
   - G V Helgason
   - G Vignir Helgason
+  - G. Vignir Helgason
   - Helgason GV
   - Helgason G.V.
 links:

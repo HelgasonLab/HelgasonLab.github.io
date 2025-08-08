@@ -7,6 +7,7 @@ aliases:
   - K Rattigan
   - K. Rattigan
   - Kevin Rattigan
+  - Kevin M. Rattigan
 links:
   home-page: https://www.gla.ac.uk/schools/cancersciences/staff/kevinrattigan/
   email: Kevin.Rattigan@glasgow.ac.uk
