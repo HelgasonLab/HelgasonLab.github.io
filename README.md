@@ -5,6 +5,6 @@
 
   # HelgasonLab's Website
 
-  Visit **[helgasonlab.com](https://helgasonlab.com)** 🚀
+  Visit **[helgasonlab.co.uk](http://helgasonlab.co.uk)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
